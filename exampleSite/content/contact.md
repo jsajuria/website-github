@@ -3,6 +3,6 @@ title = "Contact"
 slug = "contact"
 +++
 
-{{% fontawesome envelope-solid %}} **j.sajuria \[at\] qmul\[dot\] ac \[dot\] uk**
+<i class = "fas fa-envelope"> **j.sajuria \[at\] qmul\[dot\] ac \[dot\] uk**
 
-{{% fontawesome twitter-square-brands %}} [@jsajuria](https://twitter.com/jsajuria).
+<i class = "fas fa-twitter-square"> [@jsajuria](https://twitter.com/jsajuria).
