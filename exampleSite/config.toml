@@ -62,6 +62,12 @@ icon = "fa fa-twitter"
 weight = 3
 url = "https://twitter.com/jsajuria/"
 
+[[params.social]]
+name = "Google Scholar"
+icon = "fa fa-google"
+weight = 3
+url = "https://scholar.google.com/citations?user=elmJq2gAAAAJ&hl=en"
+
 
 
 [languages.en]
