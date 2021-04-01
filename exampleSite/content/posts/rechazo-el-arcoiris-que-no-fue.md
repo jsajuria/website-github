@@ -2,7 +2,8 @@
 author = "Javier Sajuria"
 date = "2020-07-29" 
 title = "Rechazo: el Arcoiris que no fue" 
-categories = ["Spanish"] tags = ["Ciper"]
+categories = ["Spanish"] 
+tags = ["Ciper"]
 +++
 
 _Columna publicada en [Ciper Chile][1]_
