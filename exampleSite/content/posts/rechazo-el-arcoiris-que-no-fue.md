@@ -10,7 +10,7 @@ _Columna publicada en [Ciper Chile][1]_
 
 Gran parte de la discusión sobre el plebiscito del 25 de octubre se ha realizado en torno a la viabilidad de ese evento en medio de una pandemia. Sin duda, esta debe ser una de las principales preocupaciones de quienes tienen a su cargo la administración electoral. Sin embargo, ya sea por la lejanía en el tiempo o por la falta de información, se ha hecho poco análisis de cómo se han ido ordenando las preferencias electorales alrededor de este plebiscito de entrada.
 
-En este artículo pretendo levantar dos ideas principales: la primera es que el plebiscito,&nbsp;<a href="https://www.latercera.com/la-tercera-pm/noticia/los-riesgos-plebiscito-entrada/897487/" target="_blank" rel="noreferrer noopener"><strong>a diferencia de mis propias expectativas iniciales</strong></a>, no estaría relacionado con una mayor polarización política. Lo segundo es que, a pesar de lo planteado por algunos (cfr. Navia 2020), la opción de rechazar una nueva Constitución no se asemeja a un arcoíris de personas diversas, sino todo lo contrario.
+En este artículo pretendo levantar dos ideas principales: la primera es que el plebiscito [a diferencia de mis propias expectativas iniciales](https://www.latercera.com/la-tercera-pm/noticia/los-riesgos-plebiscito-entrada/897487/), no estaría relacionado con una mayor polarización política. Lo segundo es que, a pesar de lo planteado por algunos (cfr. Navia 2020), la opción de rechazar una nueva Constitución no se asemeja a un arcoíris de personas diversas, sino todo lo contrario.
 
 Gracias a la evidencia proporcionada por la última encuesta Plaza Pública de Cadem, podemos hacer un análisis preliminar de cómo se construye el apoyo de cada una de las opciones. Para partir, es importante mencionar que la encuesta de la semana pasada otorga un 71% de las preferencias a la opción Apruebo (un aumento de 6 puntos desde la última medición en abril) y una reducción al 20% de la opción Rechazo. Este es el resultado más extremo mostrado por Cadem,&nbsp;<a href="https://tresquintos.cl/plebiscito2020/" target="_blank" rel="noreferrer noopener"><strong>pero está en línea con lo observado en otras encuestas</strong></a>**.**
 
@@ -30,9 +30,7 @@ Sin embargo, analizando la evidencia, pareciera que el caso chileno es distinto.
 
 **Fig. 1: Opción de voto por posición política**
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://ciperchile.cl/wp-content/uploads/f1-6.png" alt="" class="wp-image-140808" /></figure>
-</div>
+![][https://ciperchile.cl/wp-content/uploads/f1-6.png]
 
 Como podemos observar en la Figura 1, esta distinción entre izquierda y derecha tiene poco asidero. En la opción Rechazo, la principal identificación política es con la derecha. Le sigue un grupo de independientes o que no se identifican con una posición. Los votantes de centro y de izquierda que dicen apoyar el Rechazo representan un porcentaje insignificante, sobre todo considerando el tamaño de la muestra. La opción Apruebo, en cambio, tiene un apoyo mucho más distribuido en términos políticos. De hecho, más del 40% de quienes se identifican con la derecha plantean que van a votar por el Apruebo. En términos políticos, el apoyo a una nueva Constitución reúne a personas de todos los sectores políticos del país, rompiendo con la tendencia a la polarización en esta dimensión.
 
