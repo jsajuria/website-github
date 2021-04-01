@@ -17,7 +17,7 @@ enableEmoji = true
 author = "Javier Sajuria"
 description = "Javier Sajuria's personal website"
 keywords = "research, personal"
-info = "Senior Lecturer (Associate Professor) in Politics @QMUL and occassional podcast host"
+info = "Senior Lecturer (Associate Professor) in Politics @QMUL and occasional podcast host"
 avatarURL = "images/javier_website.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = ""
@@ -26,6 +26,9 @@ dateFormat = "January 2, 2006"
 hideCredits = false
 hideCopyright = false
 
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
 
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
