@@ -1,6 +1,7 @@
 +++ 
-date: "2020-07-29" 
-title: 'Rechazo: el Arcoíris que no fue' 
+author = "Javier Sajuria"
+date = "2020-07-29" 
+title = "Rechazo: el Arcoiris que no fue" 
 categories = ["Spanish"] tags = ["Ciper"]
 +++
 
