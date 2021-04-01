@@ -3,7 +3,7 @@ title = "Research"
 slug = "research"
 +++
 
- Updated CV[](www.sajuria.com/cv) <i class = "fa fa-podcast"
+ Updated CV[](www.sajuria.com/cv) <i class = "fa fa-podcast">
 
 # Current Projects
 
