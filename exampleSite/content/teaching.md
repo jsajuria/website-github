@@ -22,40 +22,40 @@ Here you can find information about the courses I have taught over the years.
 - POL388 Politics Research Project
 - POLM083 Introduction to Social Science 2 – Quantitative Methods 
 
-##Before joining QMUL
+## Before joining QMUL
 
-#2016-2017
+# 2016-2017
 
 - Newcastle University - POL3048 Projects in Politics
 
-#2015 – 2016
+# 2015 – 2016
 
 - Universidad Católica del Uruguay Winter Methods School – Introduction to Social Network Analysis – Module Leader
 - Birkbeck, University of London – Intermediate Quantitative Social Research – Associate Lecturer
 - UCL – Introduction to Quantitative Research Methods – Teaching Fellow
 
-#2014 – 2015
+# 2014 – 2015
 
 - Birkbeck, University of London – Intermediate Quantitative Social Research – Associate Lecturer
 - UCL – Introduction to Quantitative Research Methods – Teaching Fellow
 
-#2013 – 2014
+# 2013 – 2014
 
 - Birkbeck, University of London – Introduction to Statistics – Associate Lecturer
 - UCL – Introduction to Quantitative Research Methods (PUBLG100) – Postgraduate Teaching Assistant
 - UCL – Introduction to Qualitative Research Methods (PUBLG004) – Postgraduate Teaching Assistant
 
-#2012 – 2013
+# 2012 – 2013
 
 - UCL – Voters, Public Opinion, and Participation (PUBLG056) – Co-lecturer with Dr. Jennifer Hudson
 - UCL – Introduction to Quantitative Research Methods (PUBLG100) – Postgraduate Teaching Assistant
 - UCL – Introduction to Qualitative Research Methods (PUBLG004) – Postgraduate Teaching Assistant
 
-#2011-2012
+# 2011-2012
 
 - UCL – Introduction to Qualitative and Quantitative Research Methods (PUBLG004) – Postgraduate Teaching Assistant
 
-#Other courses
+# Other courses
 
 - Workshop: R for Political Analysis, UCL, 2016
 - Workshop: Introductory Network Analysis, UCL Department of Anthropology, 2014-2015
