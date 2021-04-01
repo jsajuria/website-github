@@ -3,7 +3,7 @@ title = "Research"
 slug = "research"
 +++
 
-{{% button href="https://sajuria.com/cv/" icon="fas fa-file-pdf-o" icon-position="right" %}}Updated CV{{% /button %}} 
+ Updated CV [{{% fontawesome file-pdf-solid %}}](www.sajuria.com/cv)
 
 # Current Projects
 
