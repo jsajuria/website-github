@@ -5,6 +5,8 @@ slug = "research"
 
  Updated CV[ <i class = "fa fa-podcast">](www.sajuria.com/cv)
 
+ {{% button href="https://www.magdalenabennett.com/files/CV_mbennett.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} my full CV
+
 # Current Projects
 
   - Politics of Misinformation (website coming soon)
