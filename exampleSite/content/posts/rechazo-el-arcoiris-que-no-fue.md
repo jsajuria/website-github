@@ -12,7 +12,7 @@ Gran parte de la discusión sobre el plebiscito del 25 de octubre se ha realizad
 
 En este artículo pretendo levantar dos ideas principales: la primera es que el plebiscito [a diferencia de mis propias expectativas iniciales](https://www.latercera.com/la-tercera-pm/noticia/los-riesgos-plebiscito-entrada/897487/), no estaría relacionado con una mayor polarización política. Lo segundo es que, a pesar de lo planteado por algunos (cfr. Navia 2020), la opción de rechazar una nueva Constitución no se asemeja a un arcoíris de personas diversas, sino todo lo contrario.
 
-Gracias a la evidencia proporcionada por la última encuesta Plaza Pública de Cadem, podemos hacer un análisis preliminar de cómo se construye el apoyo de cada una de las opciones. Para partir, es importante mencionar que la encuesta de la semana pasada otorga un 71% de las preferencias a la opción Apruebo (un aumento de 6 puntos desde la última medición en abril) y una reducción al 20% de la opción Rechazo. Este es el resultado más extremo mostrado por Cadem,&nbsp;<a href="https://tresquintos.cl/plebiscito2020/" target="_blank" rel="noreferrer noopener"><strong>pero está en línea con lo observado en otras encuestas</strong></a>**.**
+Gracias a la evidencia proporcionada por la última encuesta Plaza Pública de Cadem, podemos hacer un análisis preliminar de cómo se construye el apoyo de cada una de las opciones. Para partir, es importante mencionar que la encuesta de la semana pasada otorga un 71% de las preferencias a la opción Apruebo (un aumento de 6 puntos desde la última medición en abril) y una reducción al 20% de la opción Rechazo. Este es el resultado más extremo mostrado por Cadem, **[pero está en línea con lo observado en otras encuestas](https://tresquintos.cl/plebiscito2020/)**
 
 Antes de partir, es importante hacer algunas salvedades. La primera es que aún falta mucho para la elección. Si bien hemos visto que las preferencias mostradas en las encuestas siguen un patrón bastante estable en favor del Apruebo, la verdad es que la literatura especializada (Jennings and Wlezien 2016) es bastante clara sobre la falta de precisión de las encuestas cuando son tan lejanas a la fecha de la votación. Eso no quiere decir que la carrera pueda cambiar de forma drástica en los próximos meses (es más, lo dudo), pero sí que las proporciones presentadas aquí y en otros sondeos pueden diferir de manera más o menos importante con los resultados de octubre. Sin ir más lejos, las características en las cuales se va a desarrollar el plebiscito (en medio de una pandemia, con parte de la población manteniéndose en sus casas) puede afectar de forma notoria (y no aleatoria) la probabilidad de ir a votar de ciertos segmentos de la población.
 
@@ -38,9 +38,7 @@ Otra dimensión que suele estar asociada a preferencias en plebiscitos es la cla
 
 **Fig. 2: Opción de voto por Grupo Socioeconómico (GSE)**
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://ciperchile.cl/wp-content/uploads/f2-5.png" alt="" class="wp-image-140809" /></figure>
-</div>
+{{< figure src="https://ciperchile.cl/wp-content/uploads/f2-5.png" >}}
 
 Al mirar las preferencias de voto dentro de cada grupo socioeconómico (Figura 2), la distinción entre pueblo-élite es menos clara. La opción Apruebo es la mayoritaria en todos los segmentos, pero hay diferencias entre cómo se distribuyen internamente. Si bien la diferencia entre el grupo C1 (clase media alta) y los C2C3 (Clase media) es estadísticamente significativa, no así en la diferencia entre el C1 y el D/E.
 
@@ -48,9 +46,8 @@ Quizás donde sí hay cierta diferencia más importante es en términos de edad,
 
 **Fig. 3: Opción de voto por Edad**
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://ciperchile.cl/wp-content/uploads/f3-5.png" alt="" class="wp-image-140810" /></figure>
-</div>
+{{< figure src="https://ciperchile.cl/wp-content/uploads/f3-5.png" >}}
+
 
 ## ¿DÓNDE ESTÁ EL ARCOÍRIS? {#h2_1}
 
@@ -60,17 +57,15 @@ Las distintas características mencionadas anteriormente están analizadas de fo
 
 **Tabla 1: Modelo de regresión logística para predecir la preferencia por el Rechazo**
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://ciperchile.cl/wp-content/uploads/t1-12.png" alt="" class="wp-image-140811" /></figure>
-</div>
+{{< figure img src="https://ciperchile.cl/wp-content/uploads/t1-12.png" >}}
 
-El modelo plantea algo similar a lo que se mostraba más arriba. Las variables que predicen el voto Rechazo son la edad, la posición política y el nivel socioeconómico. Los coeficientes en negativo indican que esos factores disminuyen significativamente la probabilidad de preferir el Rechazo.&nbsp;**En resumen, quienes se inclinan por esta opción son, en promedio, hombres y mujeres de clase más bien acomodada (con un componente D/E igualmente relevante), más viejos y de derecha.&nbsp;**Si siguiéramos la analogía del arcoíris, este grupo se parece a uno en escala de grises.
+El modelo plantea algo similar a lo que se mostraba más arriba. Las variables que predicen el voto Rechazo son la edad, la posición política y el nivel socioeconómico. Los coeficientes en negativo indican que esos factores disminuyen significativamente la probabilidad de preferir el Rechazo. **En resumen, quienes se inclinan por esta opción son, en promedio, hombres y mujeres de clase más bien acomodada (con un componente D/E igualmente relevante), más viejos y de derecha.** Si siguiéramos la analogía del arcoíris, este grupo se parece a uno en escala de grises.
 
 ## CONCLUSIÓN {#h2_2}
 
 La poca evidencia disponible muestra que el apoyo al Apruebo es amplio (sobre 70%) y diverso. La composición de ese electorado atraviesa posturas políticas, grupos etarios y socioeconómicos y no tiene diferencias entre hombres y mujeres. Es un verdadero arcoíris y, por ahora, desafía la tendencia creciente a la polarización política. Sin embargo, es importante tomar en cuenta que esa misma característica puede confinar a los votantes del Rechazo a una esquina del electorado, excluyéndolos de forma simbólica y substantiva del proceso constituyente.
 
-El proceso que, seguramente, se inicia el 25 de octubre requiere recomponer confianzas colectivas en la institucionalidad y la política.&nbsp;<a href="https://ciperchile.cl/2020/07/25/la-desconfianza-radical/" target="_blank" rel="noreferrer noopener">Ya nos advertía Claudio Fuentes</a>&nbsp;sobre la desconfianza radical sobre la que se construye este proceso. Para poder resolver este dilema, es importante que el proceso constituyente no sea sólo una discusión de élites de espaldas a quienes los votaron, sino que se construyan mecanismos (formales o informales) de participación política.
+El proceso que, seguramente, se inicia el 25 de octubre requiere recomponer confianzas colectivas en la institucionalidad y la política. [Ya nos advertía Claudio Fuentes](https://ciperchile.cl/2020/07/25/la-desconfianza-radical/) sobre la desconfianza radical sobre la que se construye este proceso. Para poder resolver este dilema, es importante que el proceso constituyente no sea sólo una discusión de élites de espaldas a quienes los votaron, sino que se construyan mecanismos (formales o informales) de participación política.
 
 Pero lo que tampoco podemos olvidar es que el proceso no puede excluir a quienes no quieren que ese proceso exista. Esto puede sonar paradójico, pero la legitimidad del proceso descansa en su capacidad de convocar a quienes no están a favor del mismo. Siempre habrá quienes preferirán marginarse, amén de las iniciativas para permitir su inclusión. Pero un proceso legítimo requiere, al menos, hacer un esfuerzo sincero por convocarlos y hacerlos partícipes. Un triunfo apabullante del Apruebo no asegura el éxito del proceso constituyente, sólo lo posibilita.
 
