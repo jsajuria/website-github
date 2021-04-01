@@ -1,25 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "About Javier"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Javier Sajuria"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+ I am a Senior Lecturer (Associate Professor) in Politics at the [School of Politics and International Relations](http://www.politics.qmul.ac.uk) at [Queen Mary, University of London](http://www.qmul.ac.uk). My university profile can be seen [here](https://www.qmul.ac.uk/politics/staff/profiles/sajuriajavier.html).
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I obtained my PhD from the Department of Political Science [University College London](http://www.ucl.ac.uk). Prior to joining Queen Mary, I was a lecturer at [Newcastle's University][1] [Department of Politics][2], and I was also associated with [Newcastle's Open Lab][3]. Before that, I was a postdoctoral Research Associate at the [School of Government and Public Policy](http://www.strath.ac.uk/humanities/schoolofgovernmentandpublicpolicy/), [University of Strathclyde](http://www.strath.ac.uk/), working as part of the team behind the ESCR funded **Representative Audit of Britain** project. During that time, I was also part of the [Constitution Unit][4] team as a research associate.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+My [research interests][5] include political behaviour, comparative politics, social media and politics, and political methodology. My currrent research now focuses on electoral politics, elite politics (candidates and legislators), techniques for latent variable estimation, and political representation.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ [1]: http://www.ncl.ac.uk
+ [2]: http://www.ncl.ac.uk/gps/politics/
+ [3]: https://openlab.ncl.ac.uk
+ [4]: http://www.ucl.ac.uk/constitution-unit/
+
