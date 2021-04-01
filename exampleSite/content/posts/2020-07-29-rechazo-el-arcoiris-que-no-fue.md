@@ -1,15 +1,9 @@
----
-title: 'Rechazo: el Arcoíris que no fue'
-author: Javier Sajuria
-type: post
-date: 2020-07-29T21:19:00+00:00
-url: /rechazo-el-arcoiris-que-no-fue/
-categories:
-  - Spanish
-tags:
-  - Ciper
++++ 
+date: "2020-07-29" 
+title: 'Rechazo: el Arcoíris que no fue' 
+categories = ["Spanish"] tags = ["Ciper"]
++++
 
----
 _Columna publicada en [Ciper Chile][1]_
 
 Gran parte de la discusión sobre el plebiscito del 25 de octubre se ha realizado en torno a la viabilidad de ese evento en medio de una pandemia. Sin duda, esta debe ser una de las principales preocupaciones de quienes tienen a su cargo la administración electoral. Sin embargo, ya sea por la lejanía en el tiempo o por la falta de información, se ha hecho poco análisis de cómo se han ido ordenando las preferencias electorales alrededor de este plebiscito de entrada.
