@@ -6,15 +6,15 @@ slug = "teaching"
 Here you can find information about the courses I have taught over the years. 
 
 
-#Autumn 2021
+# Autumn 2021
 
 - [Political Data Research (POL269)](https://qmul-spir.github.io/POL269/), an introductory module on quantitative methods
 
-#2018-2019 / 2019-2020:
+# 2018-2019 / 2019-2020:
 
 - POL252 Political Research
 
-#2017-2018:
+# 2017-2018:
 
 - POL105 Political Analysis
 - POL112 Introduction into Politics
