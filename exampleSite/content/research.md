@@ -7,7 +7,7 @@ slug = "research"
 
  {{% button href="https://www.magdalenabennett.com/files/CV_mbennett.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} my full CV
 
- [{{% fontawesome download-solid32 %}}](/files/sub/mbennett_covid.pdf)
+ [{{% fontawesome file-pdf-solid %}}](/files/sub/mbennett_covid.pdf)
 
 # Current Projects
 
