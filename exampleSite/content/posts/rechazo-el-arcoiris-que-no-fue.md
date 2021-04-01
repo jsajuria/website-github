@@ -30,7 +30,7 @@ Sin embargo, analizando la evidencia, pareciera que el caso chileno es distinto.
 
 **Fig. 1: Opción de voto por posición política**
 
-![][https://ciperchile.cl/wp-content/uploads/f1-6.png]
+{{< figure src="https://ciperchile.cl/wp-content/uploads/f1-6.png" >
 
 Como podemos observar en la Figura 1, esta distinción entre izquierda y derecha tiene poco asidero. En la opción Rechazo, la principal identificación política es con la derecha. Le sigue un grupo de independientes o que no se identifican con una posición. Los votantes de centro y de izquierda que dicen apoyar el Rechazo representan un porcentaje insignificante, sobre todo considerando el tamaño de la muestra. La opción Apruebo, en cambio, tiene un apoyo mucho más distribuido en términos políticos. De hecho, más del 40% de quienes se identifican con la derecha plantean que van a votar por el Apruebo. En términos políticos, el apoyo a una nueva Constitución reúne a personas de todos los sectores políticos del país, rompiendo con la tendencia a la polarización en esta dimensión.
 
