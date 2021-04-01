@@ -3,11 +3,10 @@ title = "Research"
 slug = "research"
 +++
 
- Updated CV[ <i class = "fa fa-podcast">](www.sajuria.com/cv)
 
- {{% button href="https://www.magdalenabennett.com/files/CV_mbennett.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} my full CV
+ Updated CV{{% button href="/files/CV_JSajuria.pdf" icon="fas fa-file-pdf" icon-position="right" %}}{{% /button %}}
 
- [{{% fontawesome file-pdf-solid %}}](/files/sub/mbennett_covid.pdf)
+
 
 # Current Projects
 
