@@ -105,13 +105,13 @@ title = "Javier Sajuria"
 
 [languages.es-cl.params]
 author = "Javier Sajuria"
-info = "Profesor Asociado de Ciencia Política @QMUL"
+info = "Profesor Asociado de Ciencia Política @QMUL y host ocasional de podcasts"
 description = "Sitio personal de Javier Sajuria"
 keywords = "investigación, personal"
 #footerContent = "Coloque algum texto aqui."
 
 [[languages.es-cl.menu.main]]
-name = "Sobre"
+name = "Sobre mi"
 weight = 1
 url = "about/"
 
@@ -121,9 +121,9 @@ weight = 2
 url = "posts/"
 
 [[languages.es-cl.menu.main]]
-name = "Proyectos"
+name = "Investigación"
 weight = 3
-url = "projects/"
+url = "research/"
 
 [[languages.es-cl.menu.main]]
 name = "Contacto"
