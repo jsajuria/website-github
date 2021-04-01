@@ -3,7 +3,7 @@ title = "Research"
 slug = "research"
 +++
 
- Updated CV [{{% fontawesome file-pdf-solid %}}](www.sajuria.com/cv)
+ Updated CV [{{ partial "fontawesome.html" "file-pdf-solid" }}](www.sajuria.com/cv)
 
 # Current Projects
 
