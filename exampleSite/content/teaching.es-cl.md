@@ -1,12 +1,12 @@
 +++
-title = "Teaching"
+title = "Docencia"
 slug = "teaching"
 +++
 
-Here you can find information about the courses I have taught over the years. 
+Aquí podrán encontrar información sobre mis actividades de docencia en los últimos años.
 
 
-#Autumn 2021
+#Otoño 2021
 
 - [Political Data Research (POL269)](https://qmul-spir.github.io/POL269/), an introductory module on quantitative methods
 
@@ -22,7 +22,7 @@ Here you can find information about the courses I have taught over the years.
 - POL388 Politics Research Project
 - POLM083 Introduction to Social Science 2 – Quantitative Methods 
 
-##Before joining QMUL
+##Antes de unirme a QMUL
 
 #2016-2017
 
@@ -30,7 +30,7 @@ Here you can find information about the courses I have taught over the years.
 
 #2015 – 2016
 
-- Universidad Católica del Uruguay Winter Methods School – Introduction to Social Network Analysis – Module Leader
+- Universidad Católica del Uruguay Escuela de Métodos – Introducción al Análisis de Redes Sociales 
 - Birkbeck, University of London – Intermediate Quantitative Social Research – Associate Lecturer
 - UCL – Introduction to Quantitative Research Methods – Teaching Fellow
 
@@ -55,7 +55,7 @@ Here you can find information about the courses I have taught over the years.
 
 - UCL – Introduction to Qualitative and Quantitative Research Methods (PUBLG004) – Postgraduate Teaching Assistant
 
-#Other courses
+#Otros cursos
 
 - Workshop: R for Political Analysis, UCL, 2016
 - Workshop: Introductory Network Analysis, UCL Department of Anthropology, 2014-2015
