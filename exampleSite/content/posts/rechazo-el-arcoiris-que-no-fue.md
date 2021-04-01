@@ -57,7 +57,7 @@ Las distintas características mencionadas anteriormente están analizadas de fo
 
 **Tabla 1: Modelo de regresión logística para predecir la preferencia por el Rechazo**
 
-{{< figure img src="https://ciperchile.cl/wp-content/uploads/t1-12.png" >}}
+{{< figure src="https://ciperchile.cl/wp-content/uploads/t1-12.png" >}}
 
 El modelo plantea algo similar a lo que se mostraba más arriba. Las variables que predicen el voto Rechazo son la edad, la posición política y el nivel socioeconómico. Los coeficientes en negativo indican que esos factores disminuyen significativamente la probabilidad de preferir el Rechazo. **En resumen, quienes se inclinan por esta opción son, en promedio, hombres y mujeres de clase más bien acomodada (con un componente D/E igualmente relevante), más viejos y de derecha.** Si siguiéramos la analogía del arcoíris, este grupo se parece a uno en escala de grises.
 
