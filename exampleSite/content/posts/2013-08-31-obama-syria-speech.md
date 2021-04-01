@@ -1,0 +1,27 @@
+---
+title: 'Quick report: Obama’s speech on Syria'
+author: Javier Sajuria
+type: post
+date: 2013-08-31T18:53:55+00:00
+url: /obama-syria-speech/
+dsq_thread_id:
+  - "1680303953"
+categories:
+  - Uncategorized
+tags:
+  - Obama
+  - rstats
+  - sna
+  - Syria
+  - Twitter
+
+---
+President Obama made a speech today explaining the US position on attacking Syria (more details <a href="http://www.theguardian.com/world/middle-east-live/2013/aug/31/syria-usforeignpolicy" target="_blank">here</a>, <a href="http://www.nytimes.com/2013/09/01/world/middleeast/syria.html?hp&_r=0" target="_blank">here</a>, and <a href="http://www.aljazeera.com/news/middleeast/2013/08/2013831163130308715.html" target="_blank">here</a>). Luckily, I was collecting data on the <a title="APSA 2013 Twitter network" href="https://sajuria.com/apsa2013/" target="_blank">APSA 2013</a> conference, so I managed to run a small script and collect some tweets during the speech. It&#8217;s a bit early to get a good idea of the tone and the substantive info we can get from there, but for now, let me show you how the tweets are geographically located. Out of ~5000 tweets I managed to collect, only 1% of them had location coordinates, which is pretty much the usual rate. I plotted all of them against a world map, and here is the result. [<img loading="lazy" class="aligncenter size-full wp-image-81" alt="tweets_obama_syria" src="https://sajuria.com/wp-content/uploads/2013/08/tweets_obama_syria.png" width="832" height="455" srcset="https://sajuria.com/wp-content/uploads/2013/08/tweets_obama_syria.png 832w, https://sajuria.com/wp-content/uploads/2013/08/tweets_obama_syria-300x164.png 300w, https://sajuria.com/wp-content/uploads/2013/08/tweets_obama_syria-624x341.png 624w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][1]   Now, if we perform some basic network analysis using the data, most of the nodes with bigger centrality were news outlet and the official account of Barack Obama (@BarackObama). Most of the edges correspond to people re-tweeting mainstream media accounts, while others were simply making their own comments. The network shows how all these people interacted during the first 8 minutes of the speech.
+
+<figure id="attachment_85" aria-describedby="caption-attachment-85" style="width: 625px" class="wp-caption aligncenter">[<img loading="lazy" class="size-large wp-image-85" alt="Network of tweets mentioning 'Obama' or 'Syria'. Ties represent mentions, replies or RTs, colours correspond to weakly connected components, and the size of the nodes reflects the eigenvector centrality score of each account." src="https://sajuria.com/wp-content/uploads/2013/08/obama_syria-1024x1024.png" width="625" height="625" srcset="https://sajuria.com/wp-content/uploads/2013/08/obama_syria-1024x1024.png 1024w, https://sajuria.com/wp-content/uploads/2013/08/obama_syria-150x150.png 150w, https://sajuria.com/wp-content/uploads/2013/08/obama_syria-300x300.png 300w, https://sajuria.com/wp-content/uploads/2013/08/obama_syria-624x624.png 624w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][2]<figcaption id="caption-attachment-85" class="wp-caption-text">Network of tweets mentioning &#8216;Obama&#8217; or &#8216;Syria&#8217;. Ties represent mentions, replies or RTs, colours correspond to weakly connected components, and the size of the nodes reflects the eigenvector centrality score of each account.</figcaption></figure>
+
+Finally, I perform some (really) basic sentiment analysis on the tweets of the first 8 minutes. The method was designed by <a href="http://www.alex-hanna.com/tworkshops/lesson-6-basic-sentiment-analysis/" target="_blank">Alex Hanna</a>, from U. Wisconsin &#8211; Madison, and I used the list of words developed by <a href="http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/" target="_blank">Neal Caren</a>, from UNC &#8211; Chapell HIll. This also means that words in other languages than English were not coded. The scores are calculated by minute, and they all stay very close zero. However, the sentiment was more negative at the beginning of the speech and ended up being positive. Uncertainty measures are not provided by this (very brute) way of calculating the sentiment, so it&#8217;s not possible to know if they are significantly different than zero (this was a boring caveat, but an important one). [<img loading="lazy" class="aligncenter size-full wp-image-86" alt="sentiment" src="https://sajuria.com/wp-content/uploads/2013/08/sentiment.png" width="804" height="519" srcset="https://sajuria.com/wp-content/uploads/2013/08/sentiment.png 804w, https://sajuria.com/wp-content/uploads/2013/08/sentiment-300x193.png 300w, https://sajuria.com/wp-content/uploads/2013/08/sentiment-624x402.png 624w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][3]   This is all for now. As you can see, there is nothing about IR or geopolitics in this post. Is mainly a way to show how Twitter data can give us a fast (and sometimes overwhelming) way to analyse current events.
+
+ [1]: https://sajuria.com/wp-content/uploads/2013/08/tweets_obama_syria.png
+ [2]: https://sajuria.com/wp-content/uploads/2013/08/obama_syria.png
+ [3]: https://sajuria.com/wp-content/uploads/2013/08/sentiment.png
