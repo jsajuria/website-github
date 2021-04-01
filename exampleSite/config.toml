@@ -68,6 +68,12 @@ icon = "fa fa-google"
 weight = 3
 url = "https://scholar.google.com/citations?user=elmJq2gAAAAJ&hl=en"
 
+[[params.social]]
+name = "Bicameral"
+icon = "fa fa-podcast"
+weight = 3
+url = "https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD?si=rjzQl9JITS-oT8Zb30M9yQ"
+
 
 
 [languages.en]
@@ -84,9 +90,9 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Research"
 weight = 3
-url = "projects/"
+url = "research/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
