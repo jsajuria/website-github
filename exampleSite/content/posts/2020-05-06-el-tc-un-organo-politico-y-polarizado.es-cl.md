@@ -4,7 +4,7 @@ author = "Javier Sajuria"
 date = "2020-05-06"
 url = "el-tc-un-organo-politico-y-polarizado"
 categories = ["Press", "Spanish"]
-tags = "La Tercera"
+tags = ["La Tercera"]
 
 +++
 

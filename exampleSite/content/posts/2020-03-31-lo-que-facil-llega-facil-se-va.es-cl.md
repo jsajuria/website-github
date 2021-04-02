@@ -4,7 +4,7 @@ author = "Javier Sajuria"
 date = "2020-03-31"
 slug = "lo-que-facil-llega-facil-se-va"
 categories = ["Press", "Spanish"]
-tags = "La Tercera"
+tags = ["La Tercera"]
 
 +++
 

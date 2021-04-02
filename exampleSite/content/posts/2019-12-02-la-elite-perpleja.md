@@ -5,7 +5,7 @@ author = "Javier Sajuria"
 date = "2019-12-02"
 slug = "la-elite-perpleja"
 categories = ["Press","Spanish"]
-tags = "La Tercera"
+tags = ["La Tercera"]
 
 +++
 

@@ -5,7 +5,7 @@ author = "Javier Sajuria"
 date = "2019-11-07"
 slug = "los-riesgos-de-un-plebiscito-de-entrada"
 categories = ["Press", "Spanish"]
-tags = "La Tercera"
+tags = ["La Tercera"]
 
 +++
 **Este post fue publicado originalmente en [La Tercera][1]**

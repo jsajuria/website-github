@@ -4,7 +4,7 @@ author = ["Javier Sajuria", "Stephanie Alenda", "Julieta Suárez-Cao"]
 date = "2019-11-06"
 slug = "la-derecha-progresista-oculta"
 categories = ["Press", "Spanish"]
-tags = "La Tercera"
+tags = ["La Tercera"]
 
 +++
 

@@ -3,8 +3,8 @@ title = "Few Chileans have a voice in government. That’s why so many are in th
 author = "Javier Sajuria"
 date = "2019-11-05"
 slug = "few-chileans-have-a-voice-in-government-thats-why-so-many-are-in-the-streets"
-categories = "Press"
-tags = "Washington Post"
+categories = ["Press"]
+tags = ["Washington Post"]
 
 +++
 

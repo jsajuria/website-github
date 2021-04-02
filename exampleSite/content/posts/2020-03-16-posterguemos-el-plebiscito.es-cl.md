@@ -4,7 +4,7 @@ author = "Javier Sajuria"
 date = "2020-03-16"
 slug = "posterguemos-el-plebiscito"
 categories = ["Press", "Spanish"]
-tags = "La Tercera"
+tags = ["La Tercera"]
 
 +++
 
