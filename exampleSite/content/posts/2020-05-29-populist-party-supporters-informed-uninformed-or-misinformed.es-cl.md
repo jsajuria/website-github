@@ -8,7 +8,7 @@ slug = "populist-party-supporters-informed-uninformed-or-misinformed"
 
 +++
 
-_Written with Stijn van Kessel and Steven van Hauwaert. Originally published at the [LSE European Politics and Policy blog][1]_
+*Written with Stijn van Kessel and Steven van Hauwaert. Originally published at the [LSE European Politics and Policy blog][1]*
 
 Extant research shows that supporters of populist radical [left-wing][2] and [right-wing][3] parties make conscious choices: they generally support these parties because they agree with their positions. Yet, [populist party supporters are still often portrayed as ill-informed][4] and susceptible to a charismatic leader’s evocative, yet misleading rhetoric. This is not least due to a widespread negative interpretation of “populism” as a stand-alone concept. [Populism is regularly associated][5] with political opportunism (“saying what people want to hear”), naïveté (“simple solutions to complex problems”) and demagogy (“responding to society’s underbelly”), or confused with [adjacent but fundamentally different concepts][6], such as xenophobia or nationalism.
 
@@ -18,7 +18,7 @@ We use&nbsp;[a commonly accepted definition of populism][8], and consider it to 
 
 For our study, we rely on an existing [cross-national survey][9] with data from nine European countries (Germany, France, Greece, Italy, Poland, Spain, United Kingdom, Sweden and Switzerland) to distinguish between respondents who indicated they would, in the next elections, vote for a populist party (left or right), those who would cast a vote for a non-populist party, and those who had no intention of voting.
 
-The main aim of our study was to investigate whether there is a connection between political support (populist choice/non-populist choice/abstaining) and political information, but also political _mis_information. After all, being informed is not only a matter of possessing or lacking information; the [accuracy of this information should also be considered][10].
+The main aim of our study was to investigate whether there is a connection between political support (populist choice/non-populist choice/abstaining) and political information, but also political *mis*information. After all, being informed is not only a matter of possessing or lacking information; the [accuracy of this information should also be considered][10].
 
 With that in mind, we estimated the extent to which individuals were politically informed, uninformed or misinformed, based on three multiple choice questions that were included in the survey. Respondents were asked to recognise an EU politician, answer the question of what “budget deficit” means, and identify who sets the interest rate in their country.
 
@@ -28,7 +28,7 @@ Respondents who gave correct answers received a high score on a “political inf
 
 {{< figure src="https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2020/05/figure129may2020.png" >}}
 
-##### _Note:;_For more information, see the authors’ accompanying paper in [West European Politics][7].
+##### *Note:* For more information, see the authors’ accompanying paper in [West European Politics][7].
 
 What did we observe when relating the extent of (correct) information to intended voting behaviour? Model 1 shows that populist party supporters are not demonstrably worse informed than supporters of other parties. There is only a clear difference between those who intend to turn out and those who do not. On average, the latter are less informed than more politically active citizens. We thus find a positive relationship between possessing correct political information and the intention to support a political party, regardless of whether that party is populist or not.
 
@@ -38,7 +38,6 @@ What did we observe when relating the extent of (correct) information to intende
 
 {{< figure src="https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2020/05/figure229may2020-1.png" >}}
 
-##### _Note:_ For more information, see the authors’ accompanying paper in&nbsp;[West European Politics][7].
 
 In terms of political _mis_information, we find a difference between supporters of populist and non-populist parties, but only when we further distinguish supporters of populist radical right parties from the rest (see Model 2). Individuals in this latter category were, on average, characterised by a higher degree of political misinformation compared with all other respondents: they had a greater tendency to give incorrect answers to political knowledge questions, instead of admitting to not knowing the answers. This seems to be in line with previous studies that link the [populist radical right ideology][13] with distorted representations of reality, such as conspiracy theories. It is safe to say that such interpretations of reality are often based on incorrect information.
 
