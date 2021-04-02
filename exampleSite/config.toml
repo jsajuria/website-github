@@ -19,8 +19,8 @@ author = "Javier Sajuria"
 description = "Javier Sajuria's personal website"
 keywords = "research, personal"
 info = """
-Senior Lecturer (Associate Professor) in Politics @QMUL
-and occasional podcast host
+Senior Lecturer (Associate Professor) in Politics @QMUL \
+and occasional podcast host.
 """
 avatarURL = "images/javier_website.jpg"
 #gravatar = "john.doe@example.com"
