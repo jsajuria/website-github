@@ -1,7 +1,6 @@
 +++
 title = "La oposición como garante de la democracia"
 author = "Javier Sajuria"
-type = "post"
 date = "2020-05-11"
 slug =  "la-oposicion-como-garante-de-la-democracia"
 categories = ["Press", "Spanish"]
