@@ -6,7 +6,8 @@ slug = "soluciones-universales-a-problemas-universales"
 categories = ["Press", "Spanish"]
 tags = ["La Tercera"]
 
----
++++
+
 _Columna publicada en [La Tercera][1]_
 
 Uno de los principios más extendidos en la discusión de política pública en Chile es el de la focalización. Según esto, los recursos públicos debieran usarse para enfrentar las necesidades de quienes más lo necesitan, buscando llegar de forma “focalizada” a esos grupos y no a quienes no requieran de la contribución del Estado. Si bien puede sonar algo poco controvertido, suele chocar con una serie de propuestas que miran a los derechos sociales como universales. Así, fue una piedra de tope a la hora de extender la gratuidad universitaria a toda la población y sigue siendo un recurso utilizado para oponerse a otras medidas.
