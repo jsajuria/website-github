@@ -3,7 +3,7 @@ title = "Chile just went to the polls — and transformed its legislature"
 author = "Javier Sajuria"
 date = "2017-11-26"
 slug = "chile-just-went-to-the-polls-and-transformed-its-legislature"
-categories = ["Press']
+categories = ["Press"]
 tags = ["Washington Post"]
 
 +++
