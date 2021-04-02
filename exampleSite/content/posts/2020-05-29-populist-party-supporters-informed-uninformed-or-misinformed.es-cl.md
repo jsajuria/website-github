@@ -46,7 +46,7 @@ What can we conclude from this last finding? The results highlight that left- an
 
 Do our results indicate that populist radical right supporters are particularly [susceptible to conspiracy theories][15] and “fake news”? Unfortunately, our research does not provide a direct answer to this pertinent question. Hopefully, follow-up studies can investigate the more specific link between the deliberate dissemination of incorrect information (‘disinformation’) and voting behaviour.
 
-**_For more information, see the authors’ accompanying paper in_** [**_West European Politics_**][7]**_. This blog was first published in Dutch on the website [Stuk Rood Vlees][16]._**
+**This blog was first published in Dutch on the website [Stuk Rood Vlees][16].**
 
  [1]: https://blogs.lse.ac.uk/europpblog/2020/05/29/populist-party-supporters-informed-uninformed-or-misinformed/
  [2]: https://www.cambridge.org/core/journals/european-political-science-review/article/support-for-radical-left-parties-in-western-europe-social-background-ideology-and-political-orientations/A84EA739A21B913F661AE50A38D632C4/share/c3b7ac8df96cf628234785ec8f00e863acc52d7e
