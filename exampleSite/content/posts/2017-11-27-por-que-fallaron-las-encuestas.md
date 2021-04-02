@@ -4,7 +4,7 @@ author = "Javier Sajuria"
 date = "2017-11-27"
 slug =  "por-que-fallaron-las-encuestas"
 categories = ["Press", "Spanish"]
-tags: ["Duna"]
+tags = ["Duna"]
 
 +++
 
