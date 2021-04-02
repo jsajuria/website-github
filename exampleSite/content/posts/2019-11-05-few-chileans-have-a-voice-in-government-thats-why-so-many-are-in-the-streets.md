@@ -22,7 +22,7 @@ My [research][10] shows that inequalities in Chile go beyond income and include 
 
 **Here’s how I did the research**
 
-[Stephanie Alenda][13], the nonpartisan consulting firm [Azerta][14] and I conducted [a study of Chile’s congressional candidates.[(http://www.candidaturaschile.cl/) We looked for information about candidates’ backgrounds and collected data using open sources, such as Chile’s Electoral Service, a government office that organizes elections nationally. Our study included candidates for Congress, including those elected, since 1990. We also fielded an online survey of all the candidates running for Congress in 2017, to which 25 percent responded. The survey was part of the [Comparative Candidates Survey][15], a research project collecting data in 35 countries, and asked candidates about their political careers, attitudes, campaign strategies, harassment and more.
+[Stephanie Alenda][13], the nonpartisan consulting firm [Azerta][14] and I conducted [a study of Chile’s congressional candidates.](http://www.candidaturaschile.cl/) We looked for information about candidates’ backgrounds and collected data using open sources, such as Chile’s Electoral Service, a government office that organizes elections nationally. Our study included candidates for Congress, including those elected, since 1990. We also fielded an online survey of all the candidates running for Congress in 2017, to which 25 percent responded. The survey was part of the [Comparative Candidates Survey][15], a research project collecting data in 35 countries, and asked candidates about their political careers, attitudes, campaign strategies, harassment and more.
 
 **Private schools shape Chile’s elite**
 
