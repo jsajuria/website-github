@@ -4,7 +4,7 @@ author = "Javier Sajuria"
 date = "2017-11-26"
 slug = "chile-just-went-to-the-polls-and-transformed-its-legislature"
 categories = ["Press']
-tags ["Washington Post"]
+tags = ["Washington Post"]
 
 +++
 
