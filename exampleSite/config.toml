@@ -18,8 +18,7 @@ googleAnalytics = "G-KL0Q48P7TW"
 author = "Javier Sajuria"
 description = "Javier Sajuria's personal website"
 keywords = "research, personal"
-info = "Senior Lecturer (Associate Professor) in Politics @QMUL
-and occasional podcast host."
+info = "Senior Lecturer (Associate Professor) in Politics @QMUL"
 avatarURL = "images/javier_website.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = ""
@@ -115,7 +114,7 @@ title = "Javier Sajuria"
 
 [languages.es-cl.params]
 author = "Javier Sajuria"
-info = "Profesor Asociado de Ciencia Política @QMUL y host ocasional de podcasts"
+info = "Profesor Asociado de Ciencia Política @QMUL"
 description = "Sitio personal de Javier Sajuria"
 keywords = "investigación, personal"
 #footerContent = "Coloque algum texto aqui."
