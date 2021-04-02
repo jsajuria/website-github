@@ -14,7 +14,7 @@ I obtained my PhD from the Department of Political Science [University College
 
 My [research interests] include political behaviour, comparative politics, social media and politics, and political methodology. My currrent research now focuses on electoral politics, elite politics (candidates and legislators), techniques for latent variable estimation, and political representation.
 
-I usually write columns (in Spanish) in [La Tercera](https://www.latercera.com/autor/javier-sajuria/) and, more importantly, co-host [Bicameral](https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD)
+I usually write columns (in Spanish) in [La Tercera](https://www.latercera.com/autor/javier-sajuria/) and, more importantly, co-host [Bicameral](https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD). I am also a member of the board of [Espacio Público](www.espaciopublico.cl)
 
 
  [1]: http://www.ncl.ac.uk

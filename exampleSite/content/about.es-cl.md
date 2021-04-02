@@ -12,7 +12,7 @@ Obtuve mi doctorado en Ciencia Política en [University College London](http://w
 
 Mis intereses de investigación incluyen el comportamiento político, medios sociales, y metodología. My trabajo actual se enfoca en política electoral, estudio de élites políticas, representación política y técnicas para estimación de variables latentes.
 
-Soy columnista en [La Tercera](https://www.latercera.com/autor/javier-sajuria/) y, aún más importante, una de las voces y mentes detrás de  [Bicameral](https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD)
+Soy columnista en [La Tercera](https://www.latercera.com/autor/javier-sajuria/) y, aún más importante, una de las voces y mentes detrás de  [Bicameral](https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD). Además soy director de [Espacio Público](www.espaciopublico.cl)
 
 
  [1]: http://www.ncl.ac.uk
