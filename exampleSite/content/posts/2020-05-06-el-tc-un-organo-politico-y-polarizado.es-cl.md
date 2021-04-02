@@ -1,7 +1,6 @@
 +++
 title = "El TC, un órgano político y polarizado"
 author = "Javier Sajuria"
-type = "post"
 date = "2020-05-06"
 url = "el-tc-un-organo-politico-y-polarizado"
 categories = ["Press", "Spanish"]

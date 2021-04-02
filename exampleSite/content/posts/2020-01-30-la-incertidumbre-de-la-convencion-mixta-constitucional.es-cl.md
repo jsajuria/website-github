@@ -1,7 +1,6 @@
 +++
 title = "La incertidumbre de la Convención Mixta Constitucional"
 author = "Javier Sajuria"
-type = "post"
 date = "2020-01-30"
 url = "la-incertidumbre-de-la-convencion-mixta-constitucional"
 categories = ["Spanish"]

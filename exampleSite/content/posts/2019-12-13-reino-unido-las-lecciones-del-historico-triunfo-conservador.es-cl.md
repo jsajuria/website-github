@@ -1,7 +1,6 @@
 +++
 title = "Reino Unido: las lecciones del histórico triunfo conservador"
 author = "Javier Sajuria"
-type = "post"
 date = "2019-12-13"
 slug =  "reino-unido-las-lecciones-del-historico-triunfo-conservador"
 categories = ["Spanish"]

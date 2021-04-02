@@ -1,7 +1,6 @@
 +++
 title = "Lo que fácil llega, fácil se va"
 author = "Javier Sajuria"
-type = "post"
 date = "2020-03-31"
 slug = "lo-que-facil-llega-facil-se-va"
 categories = ["Press", "Spanish"]
