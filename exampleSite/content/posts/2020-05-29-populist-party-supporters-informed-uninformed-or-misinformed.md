@@ -26,7 +26,7 @@ Respondents who gave correct answers received a high score on a “political inf
 
 **Figure 1: Multinomial logistic coefficients for the regression models (Model 1)**
 
-![][https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2020/05/figure129may2020.png]
+{{< figure src="https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2020/05/figure129may2020.png" >}}
 
 ##### _Note:;_For more information, see the authors’ accompanying paper in [West European Politics][7].
 
@@ -36,9 +36,9 @@ What did we observe when relating the extent of (correct) information to intende
 
 **Figure 2: Logistic coefficients for regression using left- or right-wing populist parties as dependent variable (Model 2)**
 
-![][https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2020/05/figure229may2020-1.png]
+{{< figure src="https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2020/05/figure229may2020-1.png" >}}
 
-##### _Note:;_ For more information, see the authors’ accompanying paper in&nbsp;[West European Politics][7].
+##### _Note:_ For more information, see the authors’ accompanying paper in&nbsp;[West European Politics][7].
 
 In terms of political _mis_information, we find a difference between supporters of populist and non-populist parties, but only when we further distinguish supporters of populist radical right parties from the rest (see Model 2). Individuals in this latter category were, on average, characterised by a higher degree of political misinformation compared with all other respondents: they had a greater tendency to give incorrect answers to political knowledge questions, instead of admitting to not knowing the answers. This seems to be in line with previous studies that link the [populist radical right ideology][13] with distorted representations of reality, such as conspiracy theories. It is safe to say that such interpretations of reality are often based on incorrect information.
 
