@@ -5,7 +5,7 @@ type = "post"
 date = "2019-12-13"
 slug =  "reino-unido-las-lecciones-del-historico-triunfo-conservador"
 categories = ["Spanish"]
-tags: "Ciper"
+tags = "Ciper"
 
 +++
 
