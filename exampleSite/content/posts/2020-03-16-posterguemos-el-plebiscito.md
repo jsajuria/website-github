@@ -1,7 +1,7 @@
 +++
 title = "Posterguemos el plebiscito"
 author = "Javier Sajuria"
-type = post
+type = "post"
 date = "2020-03-16"
 slug = "posterguemos-el-plebiscito"
 categories = ["Press", "Spanish"]
