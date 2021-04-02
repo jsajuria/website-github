@@ -1,16 +1,13 @@
----
-title: Soluciones colectivas, no problemas individuales
-author: Javier Sajuria
-type: post
-date: 2020-07-06T21:10:00+00:00
-url: /soluciones-colectivas-no-problemas-individuales/
-categories:
-  - Press
-  - Spanish
-tags:
-  - La Tercera
++++
+title = "Soluciones colectivas, no problemas individuales"
+author = "Javier Sajuria"
+date = "2020-07-06"
+slug = "soluciones-colectivas-no-problemas-individuales"
+categories = ["Press", "Spanish"]
+tags = ["La Tercera"]
 
----
++++
+
 _Columna publicada en [La Tercera][1]_
 
 El fin de semana pasado estuvo de cumpleaños el NHS, el sistema de salud británico. Creado hace 72 años bajo el gobierno laborista de Clement Attlee, tuvo su nacimiento en plena posguerra en un país empobrecido y en duelo. La premisa era y sigue siendo simple: atención de salud de calidad, absolutamente gratuita al punto de servicio. Es decir, no se requieren transacciones de dinero para recibir atención (salvo contadas excepciones, como la salud dental) y opera bajo criterios de eficiencia colectiva.
