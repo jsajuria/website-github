@@ -13,6 +13,7 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 googleAnalytics = "G-KL0Q48P7TW"
+enableInlineShortcodes: true
 
 [params]
 author = "Javier Sajuria"
