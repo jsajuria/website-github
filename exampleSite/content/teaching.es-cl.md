@@ -8,7 +8,7 @@ Aquí podrán encontrar información sobre mis actividades de docencia en los ú
 
 # Otoño 2021
 
-- [Political Data Research (POL269)](https://qmul-spir.github.io/POL269/), an introductory module on quantitative methods
+- [Political Data Research (POL269)](https://qmul-spir.github.io/POL269/), un curso introductorio de métodos cuantitativos
 
 # 2018-2019 / 2019-2020:
 

@@ -24,10 +24,9 @@ My main research interest lies in the intersection between Political Behaviour, 
 My current research agenda includes:
 
   - Electoral politics, with an emphasis on British and Chilean politics
-  - Community engagement and solidarity initiatives
   - Social media and collective action
   - Elite politics: candidates and legislators from a comparative approach
-  - Public opinion, party identification, and overseas aid
+  - Public opinion
   - Latent variable estimation
   - (Not so) big data, data management, visualisation, and automated collection
 
