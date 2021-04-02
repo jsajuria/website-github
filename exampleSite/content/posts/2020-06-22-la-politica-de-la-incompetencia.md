@@ -2,7 +2,7 @@
 title = "La política de la (in)competencia"
 author = "Javier Sajuria"
 date = "2020-06-22"
-slug: "la-politica-de-la-incompetencia"
+slug = "la-politica-de-la-incompetencia"
 categories = ["Press", "Spanish"
 tags = ["La Tercera"]
 
