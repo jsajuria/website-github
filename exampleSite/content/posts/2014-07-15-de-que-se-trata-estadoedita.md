@@ -1,7 +1,7 @@
 +++
 title = "¿De qué se trata @EstadoEdita?"
 author = "Javier Sajuria"
-date: "2014-07-15"
+date = "2014-07-15"
 slug = "de-que-se-trata-estadoedita"
 categories = ["Spanish"]
 tags = ["open data", "wikiedits"]
