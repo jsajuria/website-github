@@ -1,7 +1,7 @@
 +++
 title = "Cancelación y corrección del discurso en las universidades"
 author = "Javier Sajuria"
-date = "2021-08-03"
+date = "2020-08-03"
 slug = "cancelacion-y-correccion-del-discurso-en-las-universidades"
 categories = ["Press", "Spanish"]
 tags = ["La Tercera"]
