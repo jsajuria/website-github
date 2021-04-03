@@ -1,0 +1,23 @@
++++
+title = "Un plebiscito (in)seguro"
+author = "Javier Sajuria"
+date = "2020-08-17"
+slug = "un-plebiscito-inseguro"
+categories = ["Press", "Spanish"]
+tags = ["La Tercera"]
+
++++
+
+*Publicado originalmente en [La Tercera](https://www.latercera.com/opinion/noticia/un-plebiscito-inseguro/HTTZDVX5NZHQ3HVOQ7P45UUFMU/)*
+
+A un poco más de dos meses de la realización del plebiscito, aún se discuten los mecanismos para llevarlo adelante de forma segura. A pesar de que la sociedad civil lleva meses insistiendo sobre la necesidad de regular áreas como el financiamiento, el acceso a voto de quienes tienen restringido el movimiento y la correcta aplicación de protocolos de seguridad, sus advertencias han sido ignoradas o menospreciadas. Hoy, no obstante la urgencia, seguimos actuando en cámara lenta.
+
+Primero vino el drama del financiamiento. Por semanas el Servel levantó la voz sobre los costos de implementar un plebiscito en medio de una pandemia, la necesidad de contar con elementos de protección personal y de la flexibilidad requerida el día de la votación. A pesar de tener rango constitucional y autonomía, el Servel no lograba ser recibido por la oficina gubernamental a cargo de autorizar los pagos, la Dipres. Luego de ir a alegar al Congreso y de hacer llamados públicos, finalmente el Gobierno accedió a sentarse a la mesa y llegar a un pre-acuerdo. Es decir, por semanas, el Servicio Electoral debió rogar para que los escucharan sobre la necesidad de financiar el plebiscito. Y a la hora de escribir esta columna, el tema no está zanjado.
+
+Pero el Servel tampoco está libre de culpas. Organizaciones de la sociedad civil han insistido en la formación de instancias de coordinación. Conscientes de experiencias exitosas como la de Corea del Sur, las organizaciones saben que un plebiscito seguro exitoso depende del trabajo conjunto entre ellas y el Estado. Sin embargo, el Servel no sólo ha sido reacio a esta iniciativa (sólo ante la insistencia de la comisión de Constitución de la Cámara, y luego de semanas de solicitudes, el presidente del Servel aceptó llevar el tema al Consejo), sino que las reuniones que han tenido la sociedad civil han sido meramente informativas.
+
+Pero quizás lo más grave es que ni la autoridad electoral ni el gobierno han planteado alternativas viables para permitir el derecho a voto de quienes se encuentren enfermos por Covid-19 o en zonas con medidas de aislamiento. Cada vez que se ha planteado el tema desde el Congreso o la sociedad civil, la respuesta ha sido confusa. Se han descartado sin mayor debate propuestas como el voto postal –el mismo al que le teme Trump en los EE.UU.– mientras se consideran otras como establecer secciones de locales de votación para personas con Covid-19, aunque eso implique que salgan de su casa y se trasladen. No hay, hasta hoy, medida alguna para lidiar con comunas o áreas que estén en cuarentena. Para qué hablar de la situación de chilenos y chilenas en el extranjero que viven en países que están experimentando niveles más altos de la pandemia. En términos simples, si usted está enfermo de Covid-19 o vive en una zona en cuarentena, nadie le asegura su derecho a voto en el plebiscito.
+
+Parte de estos problemas se explican por el recurrente afán de los organismos públicos de ignorar a la ciudadanía en el diseño de políticas públicas. En declaraciones públicas y privadas, el gobierno y las autoridades electorales han reiterado la necesidad de un acuerdo amplio entre los partidos políticos, pero desconocen el rol de la ciudadanía en el diseño e implementación de un plebiscito seguro. No ha habido ningún análisis sobre los miedos y preocupaciones de los potenciales votantes, de sus aprehensiones de llevar adelante el proceso en una pandemia y, más importante aún, cómo esos miedos pueden segregar a segmentos completos de la población. Ese mismo sesgo se observa en la discusión sobre financiamiento de campañas, en el que se han ignorado la necesidad de regular las donaciones y gastos fuera de los partidos políticos y actores tradicionales.
+
+Ya sea por falta de interés o intención, estamos a casi dos meses del plebiscito y sin una hoja de ruta concreta sobre cómo enfrentar una elección en pandemia. Las propuestas y requerimientos de la sociedad civil han sido, en buena medida, menospreciados y se ha privilegiado impulsar medidas que le hagan más sentido a la institucionalidad política que a los votantes. El plebiscito será exitoso en la medida en que invite a la participación y sea válido a los ojos de la ciudadanía. El Estado está al servicio de ese objetivo y no al revés.

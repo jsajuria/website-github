@@ -8,6 +8,8 @@ tags = ["La Tercera"]
 
 +++
 
+*Publicado originalmente en [La Tercera](https://www.latercera.com/opinion/noticia/cancelar-y-reflexionar-en-espacios-universitarios/WKNI6K2D5BB2ZAUOQG4O2S3XBE/)*
+
 Para analizar la supuesta cultura de la cancelación en las universidades, tenemos que partir preguntándonos a qué nos referimos. Si por cancelación estamos hablando de que hay discursos prohibidos, visiones acalladas o personas censuradas, entonces la respuesta es sí. Si, en cambio, nos estamos refiriendo a la nueva tendencia en EE.UU., en que las personas son expuestas por declaraciones ofensivas que pueden haber hecho en el pasado, entonces la respuesta también es positiva, aunque en menor medida. Lo importante es destacar que ambas actitudes -o cancelaciones- presentan problemas al funcionamiento de la universidad.
 
 Las universidades chilenas han tenido que recorrer un largo trecho desde ser espacios profundamente elitistas a espacios más diversos. Pero ese proceso no siempre se ha dado de la mano de una reflexión sobre las estructuras de poder de sus campus. Por ejemplo, no obstante que hoy componen una parte mayoritaria de la matrícula y que llevamos más de 120 años de mujeres graduándose de universidades, hay solo una mujer rectora en las 18 universidades estatales; ese número aumenta a dos si miramos las 30 universidades del Cruch. Asimismo, las mujeres tienen menos oportunidades de llegar a los cargos más altos de la carrera académica.

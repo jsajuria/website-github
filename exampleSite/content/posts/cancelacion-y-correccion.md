@@ -8,6 +8,8 @@ tags = ["La Tercera"]
 
 +++
 
+*Publicado originalmente en [La Tercera](https://www.latercera.com/opinion/noticia/cancelacion-y-correccion-del-discurso-en-las-universidades/56ESCKJLXNHDRF3ECSMISUANQY/)*
+
 Uno de los principales debates que se está dando en el ámbito universitario occidental es sobre la supuesta cultura de la cancelación y el rol de la corrección política. En mi opinión, el debate más trascendental que se debiera dar es sobre los privilegios de quienes pertenecemos a la academia. El hecho que nos concentremos en la pérdida de estos y no en su existencia, es una muestra más de que estamos lejos de la pesadilla censuradora que algunos plantean.
 
 Hace unos 15 años, cuando partí estudiando en la universidad, era común escuchar a profesores referirse a mis compañeras como “futuras amas de casa” o que “venían a buscar marido”. Algunos ridiculizaban a otros por su vestimenta (“señorita, vaya a vestirse y vuelve a dar la prueba”), su orientación sexual o identidad de género. Muchas de estas conductas contaban con nuestro silencio cómplice, en parte porque compartíamos el morbo de reírse del otro y en parte por el miedo reverencial al académico. La universidad -esa entelequia en que supuestamente confrontamos ideas en igualdad de condiciones- era más bien un espacio para aquellos privilegiados que podían considerarse como “iguales”.
