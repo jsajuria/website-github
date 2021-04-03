@@ -10,16 +10,8 @@ tags = ["open data", "wikiedits"]
 El pasado 8 de julio, el comediante británico [Tom Scott][1] (famoso por sus iniciativas digitales en torno a sitios gubernamentales) creó una cuenta de Twitter ([@parliamentedits][2]) que generaba un tuiteo automático cada vez que alguien editara una entrada de Wikipedia desde un computador en el Parlamento británico. El sistema que ocupó fue simple, pero a le vez algo limitado. Conectó [Wikipedia][3] y [Twitter][4] usando el servicio IFTTT. Un par de días después, el 11 de julio, un especialista en temas digitales de la Biblioteca del Congreso de EE.UU., [Ed Summers][5], mejoró el diseño, permitiendo incorporar más de una dirección IP y subió el código a [GitHub][6]. Con eso, partió [@congressedits][7].
 
 
-{{< tweet 486539012413607936 >}}
-
-{{< tweet 486685382843842560 >}}
-
-
-
-
 El 12 de julio, ya habían varias cuentas que hacían lo mismo en otros países, como [Australia][8], [Irlanda][9] y [Francia][10]. La oportunidad estaba ahí, sólo faltaba un poco de trabajo para expandirlo a Chile. En un simple tuit, le presenté la idea a [Álvaro Graves][11] (debo admitir que hubo algo de morbo por saber cuánto se demoraba en prender con la idea), quién lleva [un par de años][12] dedicado a Open Data de gobiernos. Su respuesta fue rápida y nos pusimos en marcha. Con eso en mente, nació @CongresoEdita, que después de conseguir las IPs del gobierno, pasó a ser [@EstadoEdita.][13]
 
-{{< tweet 487710320102612992 >}}
 
 
   
