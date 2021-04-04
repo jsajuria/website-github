@@ -1,0 +1,23 @@
++++
+title = "Inmigración: cuando hacer lo correcto no es popular"
+author = "Javier Sajuria"
+date = "2021-02-17"
+slug = "inmigracion-cuando-hacer-lo-correcto-no-es-popular"
+categories = ["Press", "Spanish"]
+tags = ["La Tercera"]
+
++++
+
+*Publicado originalmente en [La Tercera](https://www.latercera.com/opinion/noticia/inmigracion-cuando-hacer-lo-correcto-no-es-popular/MBKLERMUFRHKZF7HVQDFUBUDSA/)*
+
+Partamos por lo básico: las políticas públicas que afectan derechos humanos no debiesen ser dictadas por la opinión pública, sino que por principios éticos y el respeto a la institucionalidad. Tomando eso en cuenta, uno de los principales desafíos que tienen los gobiernos democráticos es cómo resolver diferencias sobre estos temas cuando la opinión pública y la evidencia no van necesariamente de la mano.
+
+Lo vimos hace unos años con la discusión sobre el control preventivo de identidad, en la que toda la evidencia advertía sobre el nulo efecto de esta medida en controlar la delincuencia. Al contrario, lo que sugerían los estudios era que podía promover discriminación y baja eficiencia policial. Dicho y hecho, tal como ha mostrado el trabajo de Mauricio Duce y otros, los controles han empeorado la calidad del trabajo policial y han discriminado arbitrariamente contra segmentos de la población usualmente excluidos. ¿Cómo podemos explicar esto? Una opción es recordar que esta medida contaba con gran simpatía en la opinión pública en un momento que el gobierno contaba con niveles record –hasta ese entonces– de baja aprobación.
+
+Con la inmigración ocurre algo más complejo. Por años no ha sido un tema prioritario en la opinión pública. Incluso en aquellos momentos en que el flujo migratorio desde Haití estaba en su nivel máximo, había otros desafíos que parecían más relevantes. Sin embargo, el gobierno ha ido construyendo, lentamente, una retórica y una política antiinmigración que, lamentablemente, está permeando en la población. En términos políticos, la primera señal la dio el retiro inexplicable del Pacto Migratorio. De ahí, hemos visto una construcción sistemática de la migración como un problema y de los migrantes como un estorbo. Desde las declaraciones torpes del director de extranjería hasta las colas indignas para obtener visa, pasando por el absurdo de plantear que no les correspondería una vacuna, todo alimenta una visión particular. Incluso con los inmigrantes venezolanos, el gobierno los ocupó para promover una posición política implementando visas especiales, para terminar expulsándolos en overoles.
+
+Pero para que una política antiinmigración tenga frutos en la opinión pública, es necesario que haya emociones que explotar en la opinión pública. La literatura en el tema nos habla de que la inmigración puede generar una serie de ansiedades en la población, particularmente en términos económicos y de estatus. La dimensión económica se refiere a la noción de que los inmigrantes le quitan trabajo a los nacionales, colapsan servicios públicos y aumentan la delincuencia. A pesar de que la evidencia muestra lo contrario, es difícil atajar esos prejuicios cuando los alimenta la autoridad.
+
+Pero además hay un problema relacionado el estatus. Tal como planteaba Seymour Martin Lipset en los años 50, una de las razones que mantiene vivos los prejuicios raciales -asumámoslo, estamos hablando de migrantes porque provienen de Sudamérica, no sería lo mismo si viniesen de Europa– es la ansiedad de perder el estatus de hegemonía en una sociedad. Ahí donde algunos ven la oportunidad de conocer nuevas culturas, comer otras comidas o aumentar su aprendizaje del mundo, hay quienes ven una amenaza a su estilo de vida, sus valores y patrones culturales. Las sociedades que han lidiado de forma más o menos exitosa con este desafío, es gracias a un compromiso político que fomenta la inclusión y el rechazo a los prejuicios. Algo muy distinto a lo que vemos en Chile.
+
+Mientras las encuestas muestran un aumento del rechazo a la inmigración, hay quienes se soban las manos pensando en los réditos políticos que implica. Su preocupación no está en la dignidad de quienes recorren miles de kilómetros por mejores oportunidades, tampoco en las comunidades que los reciben y que requieren recursos para incluirlos. El interés mezquino e ideológico alimenta prejuicios y pone en riesgo nuestra cohesión social en el largo plazo, a cambio de un puñado de votos y un par de puntos de aprobación.

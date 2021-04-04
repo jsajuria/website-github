@@ -1,0 +1,23 @@
++++
+title = "El futuro colectivo post-pandemia"
+author = "Javier Sajuria"
+date = "2020-11-23"
+slug = "el-futuro-colectivo-post-pandemia"
+categories = ["Press", "Spanish"]
+tags = ["La Tercera"]
+
++++
+
+*Publicado originalmente en [La Tercera](https://www.latercera.com/opinion/noticia/el-futuro-colectivo-post-pandemia/XKHWNGA34FAGHAWNBS74AZCYTE/)*
+
+La tiranía del mérito, [escribe Michael Sandel](https://www.penguin.co.uk/books/313/313112/the-tyranny-of-merit/9780241407592.html), tiene una cara virtuosa y otra oscura. La virtuosa es la idea que se ha construido por años en que la sociedad debiese permitir que las personas lleguen tan lejos como se los permitan sus habilidades e intereses. Así, por años, gobiernos de todo el mundo han trabajado para cumplir la promesa de eliminar las barreras que, supuestamente, llevarían a una verdadera igualdad de oportunidades. Una vez alcanzada esa igualdad de oportunidades –usualmente reducida a otorgar educación- las personas podrían generar sus propios planes de vida. Las desigualdades que ocurran a partir de este proceso serían, por cierto, justas y justificadas. Al final, se trata de las opciones que tomamos libremente ante las mismas oportunidades.
+
+Pero una cosa es describir el ideal meritocrático como una promesa a cumplir y otra muy distinta es usarlo como una realidad ya existente. La cara oscura consiste en juzgar a las personas como si vivieran en esa realidad utópica del mérito en vez de considerarlas dentro de sus contextos y realidades. En este paradigma, quienes fallan lo hacen por su propia culpa y no porque las condiciones no se los permitieron. De ahí hay un solo paso al prejuicio de que los pobres se merecen serlo porque son flojos, que las mujeres no acceden a cargos de poder porque no quieren, o que quienes tienen riqueza es, exclusivamente, porque han trabajado duro para obtenerla (mientras que el resto no, por cierto). Esto no se trata de negar la agencia de los individuos, sino que reconocer que están condicionados por las estructuras (raza, sexo, clase, entre otras) en las que se desenvuelven.
+
+La crisis del Coronavirus ha puesto mayor énfasis en la urgencia de esos desafíos. Todos los países del mundo han tenido que salir a apoyar a sus ciudadanos con subsidios, préstamos y otras ayudas monetarias. Muchos, incluso, han suplido sueldos de aquellos trabajos que ya no se pueden realizar y que rápidamente están siendo reemplazados por otras opciones en los últimos meses. El mundo de la empleabilidad post-Covid tampoco se ve prometedor. [Como lo planteaba hace unos meses Andrea Repetto,](https://www.espaciopublico.cl/las-mujeres-en-la-reactivacion/) la pérdida de empleo femenino ha sido desproporcionada, lo que tiene graves impactos a futuro en términos de igualdad de género y obliga a pensar cuidadosamente en los pasos a seguir. Estas consideraciones tienen poco asidero en una lógica puramente meritocrática.
+
+No es casualidad que el discurso del mérito sea más popular en sociedades más desiguales, donde se utiliza para legitimar esas diferencias y no como una aspiración. Al contrario, sociedades más igualitarias comprenden que el fracaso no siempre es una responsabilidad individual, lo mismo con el éxito. La pandemia nos entrega la oportunidad de pensar en cómo construir soluciones colectivas que permitan, por una parte, emparejar la cancha de las desigualdades que se han incrementado y, por otra, poner el énfasis tanto en el desarrollo colectivo como en el individual.
+
+Dadas las condiciones del mercado laboral existente y las proyecciones a futuro, es hora de que avancemos la conversación sobre los beneficios universales, como un ingreso universal, entre otros. Por ejemplo,[ una parte importante de los trabajos que han debido parar durante esta pandemia no volverán. ](https://blogs.lse.ac.uk/covid19/2020/11/20/stop-preserving-doomed-jobs-and-bring-in-universal-basic-income/ Y el costo que implicaría la reeducación a nuevos trabajos generaría estragos en una parte importante de la población.
+
+La pandemia ha puesto en evidencia que el ingreso, la salud, las pensiones o incluso el acceso a transporte público dependen cada vez menos del esfuerzo individual y más de lo que podamos hacer como sociedad, a través del Estado. La reactivación económica y el proceso constituyente abren la puerta a plantear esta discusión alejada de los prejuicios asociados al mérito y más apegados a la evidencia. Por mucho tiempo hemos alimentado la idea de rascarse con las uñas propias y ahora estamos pagando las consecuencias.
