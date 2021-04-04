@@ -1,7 +1,7 @@
 +++
 title = "¿Qué ideas unen a la derecha del Rechazo y del Apruebo de cara a la convención?"
 author = "Javier Sajuria"
-date = "2021-11-30"
+date = "2020-11-30"
 slug = "que-ideas-unen-a-la-derecha-del-rechazo-y-del-apruebo-de-cara-a-la-convencion"
 categories = ["Press", "Spanish"]
 tags = ["Ciper"]
