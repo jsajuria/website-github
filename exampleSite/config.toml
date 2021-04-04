@@ -12,7 +12,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-googleAnalytics = "G-KL0Q48P7TW"
+googleAnalytics = "UA-41379292-1"
 enableInlineShortcodes = true
 
 [params]
