@@ -8,7 +8,8 @@ tags = ["Cadem"]
 
 +++
 
-Distribución de votos de Pamela Jiles según Encuesta Plaza Pública Cadem Número 378 
+La encuesta Plaza Pública Cadem Número 378 publicada el 11 de abril de 2021 incorporó preguntas sobre segundas preferencias en la elección presidencial. La distribución de las segundas preferencias de Pamela Jiles es particularmente interesante porque cuestiona el supuesto de que su electorado se encuentra en la izquierda. El gráfico más abajo muestra el flujo de esos votos y cómo, de irse a otra candidatura, la mayor parte de ellos se irían a alguna opción en la derecha.
+
 
 {{< rawhtml >}}
 
@@ -33,4 +34,10 @@ Distribución de votos de Pamela Jiles según Encuesta Plaza Pública Cadem Núm
 </html>
 
 
+{{< /rawhtml >}}
+
+El código está a continuación:
+
+{{< rawhtml >}}
+<script src="https://gist.github.com/jsajuria/ab437c77bc4823de99b5a08a84f11f22.js"></script>
 {{< /rawhtml >}}
