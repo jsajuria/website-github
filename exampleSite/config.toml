@@ -96,7 +96,7 @@ url = "research/"
 
 [[languages.en.menu.main]]
 name = "Teaching"
-weight = 3
+weight = 4
 url = "teaching/"
 
 [[languages.en.menu.main]]
@@ -108,6 +108,11 @@ url = "posts/"
 name = "Contact me"
 weight = 5
 url = "contact/"
+
+[[languages.en.menu.main]]
+name = "Bicameral"
+weight = 5
+url = "bicameral/"
 
 [languages.es-cl]
 languageName = ":chile:"
@@ -144,3 +149,8 @@ url = "posts/"
 name = "Contacto"
 weight = 5
 url = "contact/"
+
+[[languages.es-cl.menu.main]]
+name = "Bicameral"
+weight = 5
+url = "bicameral/"
