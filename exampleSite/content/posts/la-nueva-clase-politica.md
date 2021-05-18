@@ -1,7 +1,7 @@
 +++
 title = "La nueva clase política"
 author = "Javier Sajuria"
-date = "2021-05-10"
+date = "2021-05-17"
 slug = "la-nueva-clase-politica"
 categories = ["Press", "Spanish"]
 tags = ["La Tercera"]
