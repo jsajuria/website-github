@@ -1,8 +1,13 @@
 +++
 title = "La nueva clase política"
 author = "Javier Sajuria"
+<<<<<<< Local Changes
+date = "2021-05-10"
+slug = "el-dilema-de-mayo"
+=======
 date = "2021-05-17"
 slug = "la-nueva-clase-politica"
+>>>>>>> External Changes
 categories = ["Press", "Spanish"]
 tags = ["La Tercera"]
 
