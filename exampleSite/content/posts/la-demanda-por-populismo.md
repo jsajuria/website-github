@@ -1,7 +1,7 @@
 +++
 title = "La demanda por populismo"
 author = "Javier Sajuria"
-date = "2020-05-10"
+date = "2021-05-10"
 slug = "la-demanda-por-populismo"
 categories = ["Press", "Spanish"]
 tags = ["La Tercera"]
