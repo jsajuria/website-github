@@ -1,5 +1,5 @@
 +++
-title = "El pueblo unido, ¿avanza sin portidos?"
+title = "El pueblo unido, ¿avanza sin partidos?"
 author = "Javier Sajuria"
 date = "2021-05-24"
 slug = "la-nueva-clase-politica"
