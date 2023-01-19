@@ -8,9 +8,9 @@ slug = "research"
 
 
 
-# Current Projects
+# Current and Past Projects
 
-  - Politics of Misinformation (website coming soon)
+  - Politics of Misinformation 
   - [Candidaturas Chile ][1]
   - [Parliamentary Candidates UK][2]
   - Out of Touch and Out of Time? (ESRC Secondary Data Initiative grant, starting June 2018)
