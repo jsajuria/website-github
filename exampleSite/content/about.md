@@ -22,4 +22,4 @@ I usually write columns (in Spanish) in [La Tercera](https://www.latercera.com/a
  [3]: https://openlab.ncl.ac.uk
  [4]: http://www.ucl.ac.uk/constitution-unit/
 
-<a rel="me" href="https://mastodon.online/@jsajuria">Mastodon</a>
+<a rel="me" href="https://mastodon.online/@jsajuria"></a>
