@@ -69,7 +69,7 @@ url = "https://twitter.com/jsajuria/"
 
 [[params.social]]
 name = "Mastodon"
-icon = "fa-brands fa-mastodon"
+icon = "fa fa-mastodon"
 weight = 3
 url = "https://mastodon.online/@jsajuria"
 
