@@ -116,7 +116,9 @@
       {{ partial "footer.html" . }}
     </main>
 	
-	  {{ template "_internal/google_analytics.html" . }}
+	{{- if .Site.GoogleAnalytics }}
+	    {{ template "_internal/google_analytics.html" . }}
+	{{- end}}
 
     {{ if .Site.IsServer }}
       {{ $script := resources.Get "js/coder.js" }}
