@@ -10,7 +10,8 @@ slug = "research"
 
 # Current and Past Projects
 
-  - Politics of Misinformation 
+  - Study of Democratic Expectations and Social Identities (BA/Leverhulme funded)
+  - Information Meets Confidence (BA/Leverhulme funded)
   - [Candidaturas Chile ][1]
   - [Parliamentary Candidates UK][2]
   - Out of Touch and Out of Time? (ESRC Secondary Data Initiative grant, starting June 2018)
@@ -19,12 +20,11 @@ slug = "research"
 
 # Research Interests
 
-My main research interest lies in the intersection between Political Behaviour, Comparative Politics, Information and Communication Technologies (ICTs), and quantitative methods.
+My main research interest lies in the intersection between Political Behaviour, Comparative Politics, and quantitative methods.
 
 My current research agenda includes:
 
   - Electoral politics, with an emphasis on British and Chilean politics
-  - Social media and collective action
   - Elite politics: candidates and legislators from a comparative approach
   - Public opinion
   - Latent variable estimation

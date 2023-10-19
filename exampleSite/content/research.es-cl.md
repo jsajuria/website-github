@@ -10,6 +10,8 @@ CV Actualizado (en inglés){{% button href="/files/CV_JSajuria.pdf" icon="fas fa
 
 # Proyectos Actuales y Anteriores
 
+  - Study of Democratic Expectations and Social Identities (BA/Leverhulme funded)
+  - Information Meets Confidence (BA/Leverhulme funded)
   - Politics of Misinformation
   - [Candidaturas Chile ][1]
   - [Parliamentary Candidates UK][2]
@@ -19,13 +21,12 @@ CV Actualizado (en inglés){{% button href="/files/CV_JSajuria.pdf" icon="fas fa
 
 # Intereses de investigación
 
-Mis intereses de investigación están en la intersección entre el comportamiento político, la política comparada, tecnologías de la información y comunicación, y métodos cuantitativos.
+Mis intereses de investigación están en la intersección entre el comportamiento político, la política comparada y métodos cuantitativos.
 
 Mi agenda de investigación actual incluye:
 
 
   - Política electoral, con intereses comparados en el Reino Unido y América Latina
-  - Medios sociales y acción colectiva
   - Élites políticas
   - Opinión Pública
   - Estimación de variables latentes

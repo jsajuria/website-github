@@ -5,6 +5,11 @@ slug = "teaching"
 
 Here you can find information about the courses I have taught over the years. 
 
+# 2022-
+
+- [POL269 Political Data Research](https://pol269.sajuria.com)
+- POL309 Making Democracy Work
+
 
 # Autumn 2021
 

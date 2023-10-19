@@ -6,6 +6,11 @@ slug = "teaching"
 Aquí podrán encontrar información sobre mis actividades de docencia en los últimos años.
 
 
+# 2021-
+
+- [POL269 Political Data Research](https://pol269.sajuria.com)
+- POL309 Making Democracy Work
+
 # Otoño 2021
 
 - [Political Data Research (POL269)](https://qmul-spir.github.io/POL269/), un curso introductorio de métodos cuantitativos
