@@ -5,7 +5,25 @@ slug = "research"
 
 
  Updated CV{{% button href="/files/CV_JSajuria.pdf" icon="fas fa-file-pdf" icon-position="right" %}}{{% /button %}}
+ 
+# Work in Progress
 
+1. The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile  
+	with Jorge Atria and Cristóbal Rovira Kaltwasser  
+	*Book project*, CUP
+
+2. Political Behaviour: Actors and Institutions  
+	with Sofia Collignon  
+	*Book Project*, Sage
+	
+3. [We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal](https://osf.io/preprints/socarxiv/2ck6j/)  
+	with Jorge Fábrega and Sammy Drobny
+
+4. [Non-response Bias in Candidate Surveys](https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf)  
+	with Sofia Collignon and Wolfgang Rüdig
+
+5. Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly  
+	with Julieta Suarez-Cao
 
 # Journal Articles
 
@@ -39,7 +57,7 @@ slug = "research"
 
 8. [Civil society in times of crisis: Understanding collective action dynamics in digitally-enabled volunteer networks](https://watermark.silverchair.com/jjcmcom0248.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1IwggNOBgkqhkiG9w0BBwagggM_MIIDOwIBADCCAzQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMOKgvJQPEP1bvezf3AgEQgIIDBSK7-LB3FfGaowp_L5912OJhOLJ_JaGfLnpfLf_TCT-gMkXI1vPbS6GGkyztRxJ450xDkbx0PWfNZ7v0s6o3MtlYwnzBHPa_zQrkfXHW0V9s9P_3YyKpeY01wJpkYj58tHTw062zwLOkarSU9Dhn_3UaSo7mjfJT3dF2t_6JysRR5cdxvyrkECPP_cPevGWn5sKrHWnd_AEbOAkd0zoUTId7KXoTkQulOe_-3te826vCEXyuamZFAhxM02bynnNEl31EOo7AlbdYOmggaZR7nenUtCXdBbJKq-F0LbFVtTx-7KpQtMK_GANF_PilRObShWMUVJLMBnaJvJyLX2KNT93tWie_bmsgnICGds3dqn8AfylDf0Q6YVG_sinKCmf5FHUw_p6YpI7ToN1YjylbveocdwcB_T6NjoBrCB_C7JpOXqWRRAIF-C5Q1TLIcHSDSFfuybyCEp6i6NncJ-2Zt-blN7OSu3beKSMzj34F2Dfxzc2qmvdVQGeW9pDfIG8FUnCaD6oB0CB1mKyOSlp_6L76y7r9k-xKI7oAxM8PSWR2Hcc_AK4Y5LxNggGu2gwMqhooIB1R37cSwAYWdFj4M7LKtJcOy6uHe1QU8JLprJD1rNIldjoY2ha02IopsJ-DzLqW14LuoamCmi53OaTbLSMUwyAT_1BZlY5k97qpcGYHLrAU2ubiCrP9zvtOJYTtk1FKeTQ9JHKCEOjQ5xKGruYtG7_cw7fnHGleN-h_GskXSeGDlat8pldDzVbn3qbup03HYg5Oqz1pob2qeL5IYSc9lt5HNTZ8hgG1g_6MRSGT9AQJqd44Vj5ZR4rz6QYfm0SEJSaI2Cwx3rnFkEZ8fDYJ3mC5ln9kSG5E1qtSL7TDG62ElKPkwvZEaaB2_iVOz73n6uOLwQfpL64n92UGt7pCkvVeXQODRw4SObi97GXPtT0HuOCwRmVoLmZEdx4lWPr04jTdXx1mK5sHTAveSslqVtGJvjdLKun8PgJQAmQyoZhkAyOFSlzcqXZTetawL1IvG1hf)  
 	with Yannis Theocharis and Silia Vitoratou  
-	*Journal of Computer-Mediated Communication *22(5), 248-265. 2017
+	*Journal of Computer-Mediated Communication* 22(5), 248-265. 2017
 
 9. [The formation of political discourse within online networks: the case of the occupy movement](https://www.inderscienceonline.com/doi/pdf/10.1504/IJODE.2014.065094)  
 	with Jorge Fábrega  
@@ -63,6 +81,12 @@ slug = "research"
 	with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig and Bernhard Weßels  
 	in *Parliamentary Candidates Between Voters and Parties,* Lieven De Winter, Rune Karlsen, Hermann Schmitt (eds.) 2020
 
+3. [Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena](https://www.researchgate.net/publication/333704934_Ciclo_de_vida_y_diferencias_organizacionales_en_los_partidos_de_la_centro-derecha_chilena)  
+	with Stephanie Alenda and Tomas Dosek  
+	in *Anatomía de la centro-derecha chilena: nuevos y viejos protagonistas*, Stephanie Alenda (editor). 2020
+
+4. [More Political, Less Voting: the Internet Paradox](https://www.google.co.uk/books/edition/More_Sex_Lies_and_the_Ballot_Box/-oakDAAAQBAJ?hl=en&gbpv=1&pg=PT50&printsec=frontcover)  
+	in *More Sex, Lies and the Ballot Box: Another 50 things you need to know about elections*, Rob Ford and Phil Cowley (eds.), 2016
 
 # Research Interests
 
