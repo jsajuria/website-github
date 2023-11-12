@@ -19,7 +19,7 @@ enableInlineShortcodes = true
 author = "Javier Sajuria"
 description = "Javier Sajuria's personal website"
 keywords = "research, personal"
-info = "Reader (Associate Professor) in Comparative Politics @QMUL"
+info = "Reader (Associate Professor) in Comparative Politics @ QMUL"
 avatarURL = "images/javier_website.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = ""
@@ -98,7 +98,7 @@ url = "about/"
 
 [[languages.en.menu.main]]
 name = "Research"
-weight = 3
+weight = 2
 url = "research/"
 
 [[languages.en.menu.main]]
@@ -108,7 +108,7 @@ url = "teaching/"
 
 [[languages.en.menu.main]]
 name = "Blog"
-weight = 2
+weight = 6
 url = "posts/"
 
 [[languages.en.menu.main]]
@@ -139,7 +139,7 @@ url = "about/"
 
 [[languages.es-cl.menu.main]]
 name = "Investigación"
-weight = 3
+weight = 2
 url = "research/"
 
 [[languages.es-cl.menu.main]]
@@ -149,7 +149,7 @@ url = "teaching/"
 
 [[languages.es-cl.menu.main]]
 name = "Blog"
-weight = 2
+weight = 6
 url = "posts/"
 
 [[languages.es-cl.menu.main]]
