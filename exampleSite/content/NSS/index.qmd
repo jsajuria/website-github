@@ -1,0 +1,235 @@
+---
+title: "Is Student-Staff Ratio really irrelevant?"
+subtitle: "A response to David Kernohan (Wonkhe)"
+author: 
+  - name: "Javier Sajuria"
+    affiliation: "Queen Mary University of London"
+    email: "j.sajuria@qmul.ac.uk"
+    url: "www.sajuria.com"
+date: "2024-02-13"
+format: hugo-md
+---
+
+*For contact details, visit [sajuria.com](https://sajuria.com)*
+
+Last week, David Kernohan, deputy editor of Wonkhe, wrote a [piece](https://wonkhe.com/blogs/student-staff-ratios-may-not-have-an-impact-on-the-student-experience/) for Wonkhe arguing that the Student-Staff Ratio (SSR) might not have a strong impact on student experience. In all fairness, Kernohan's analysis was heavily caveated and he acknowledges the limitations of looking at the data in such a descriptive manner. The article was, unsurprisingly, followed by some enthusiastic statements from the Vice Chancellor of King's College London (KCL), Shitij Kapur, about how SSRs do not seem to be a great reflection of the complexity of higher education. Kapur, rightly so, emphasises that both the NSS and SSRs are a blunt metric
+
+## What does the evidence say?
+
+Kerhonan's analysis focused on a single question of the recent NSS, question 15, which asks about the availability of contacting staff. This is sensible choice, as that particular question should, theoretically, encompass a great deal of why SSR matters: contact with instructors.
+
+However, the literature has shown that the potential impact of SSR on education is much more complex and diverse. A germinal work by [McDonald (2013)](https://www.tandfonline.com/doi/full/10.1080/1360080X.2013.844668?scroll=top&needAccess=true) reviews the literature to show that the main impact of SSRs is on the quality of teaching, not on students' satisfaction. The article also highlights the political implications of SSRs, in a world where universities are trying to reduce costs, while maintaining high levels of education quality and reputation. On that same note, and with a clear focus on ethnic minority groups, [Rujimora et al. (2023)](https://journals.sagepub.com/doi/10.1177/15381927231172583) argue that lowering SSRs is beneficial for graduation rates of Hispanic and Latinx students in the US.
+
+Despite showing an association between low SSRs and positive educational outcomes, the literature is not settled in what constitutes a "good" SSR, or what is the actual causal mechanism by which they would improve teaching and student outcomes.
+
+## So, what does the NSS tell us about this issue?
+
+In order to answer this question, I propose that we should look a bit further than the associations presented by Kerhonan, and into other NSS questions, as well as separating the different disciplines (or *cost centres,* in NSS jargon).
+
+For that purpose, instead of focusing directly on the availability of instructors, I decided to start by exploring the question about overall satisfaction with the quality of the course (Q28). The first plot shows the association between SSR and aggregate % of positivity in the question. As we can observe, the relationship is negative, with a steady decrease of positivity as we increase the SSR. The following plot shows that the picture is way more complex than that: The relationship is quite different within different institutions **(you can hover over the plots to check which institutions are shown)**
+
+### Analysis of Question 28: Satisfaction with the quality of the course
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+#| layout-ncol: 2
+
+library(readxl)
+nss_full <- read_excel("Q28_data.xlsx")
+library(tidyverse)
+library(hrbrthemes)
+library(plotly)
+library(broom)
+
+plot0 <- nss_full %>%
+  ggplot(aes(x = SSR, y = `Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", se = FALSE, size = 0.5) +
+  geom_point(alpha=0.5, size = 0.5, aes(color = `Provider name (NSS CAH3)`)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity") +
+  guides(color = FALSE) 
+
+plot1 <- nss_full %>%
+  ggplot(aes(x = SSR, y = `Agg % positivity`*100, color = `Provider name (NSS CAH3)`)) + 
+  geom_point(alpha=0.5, size = 0.5) +
+  geom_smooth(method = "lm", se = FALSE, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity") +
+  guides(color = FALSE) 
+
+ggplotly(plot0)
+ggplotly(plot1)
+
+
+
+
+
+```
+
+The relationship is statistically significant, as it can be observed in the regression table below. An increase in 1 in SSR is associated with a decrease of 0.3 percentage points in the overall aggregate percentage of positivity in the question.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+
+model1 <- lm(`Agg % positivity`*100 ~ SSR, data = nss_full)
+model1 |> 
+  tidy() |>
+  knitr::kable(digits = 2,
+               col.names = c("Variable", "Coeff.", "SE", "t-score", "p-value"),
+               caption = "Linear Regression model (Q. 28)")
+  
+
+
+
+```
+
+If we perform the same analysis on the NSS question about the availability of staff (Q15), which is the one used by Kernohan in his Wonhke piece, the picture looks slightly different. As it was anticipated in the Wonkhe blogpost, positivity scores in this questions seem fairly clustered. even though the overall line seems steep, the correlation coefficient is very weak ($R=-0.11$). When we observe it by institution the picture is even less clear.
+
+Does this mean that Kerhonan was right in implying a lack of impact of SSRs on student satisfaction? It seems likely, but only for this particular question. As I already exploreda bove, the relevant relationship should be on the quality of education and not on student satisfaction (despite the attempts to equate each other).
+
+### Analysis of Question 15: Satisfaction with availability of teachers
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+#| layout-ncol: 2
+
+
+nss_full <- read_excel("Q15_data.xlsx")
+
+
+plot0 <- nss_full %>%
+  ggplot(aes(x = SSR, y = `Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", se = FALSE, size = 0.5) +
+  geom_point(alpha=0.5, size = 0.5, aes(color = `Provider name (NSS CAH3)`)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity") +
+  guides(color = FALSE) 
+
+plot1 <- nss_full %>%
+  ggplot(aes(x = SSR, y = `Agg % positivity`*100, color = `Provider name (NSS CAH3)`)) + 
+  geom_point(alpha=0.5, size = 0.5) +
+  geom_smooth(method = "lm", se = FALSE, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity") +
+  guides(color = FALSE) 
+
+ggplotly(plot0)
+ggplotly(plot1)
+
+
+
+```
+
+Finally, I wanted to have a look at another question from the NSS, question 8, which asks about the balance between directed and independent study. If I were to guess a hypothesis on the causal mechanism between SSR and student satisfaction, I would bet that is related to the perceptions on how much of the time spent in a course is directed by an instructor, and how much time is spent studying independently. Students who feel they need more time with an instructor might also be more sensible to an increase in the SSR.
+
+Notwithstanding the intuitiveness of the hypothesis, the data is not as clear nor intuitive. The plots below show that the relationship in this particular question is very similar to the one from Question 15. The correlation coefficient is even smaller ($R=-0.05$). Do not be confused by the steep slope, the overall clustering of the data at one side of the plot shows great variance in the sector.
+
+### Analysis of Question 8: Satisfaction with amount of directed/independent study
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+#| layout-ncol: 2
+
+
+nss_full <- read_excel("Q08_data.xlsx")
+
+
+plot0 <- nss_full %>%
+  ggplot(aes(x = SSR, y = `Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", se = FALSE, size = 0.5) +
+  geom_point(alpha=0.5, size = 0.5, aes(color = `Provider name (NSS CAH3)`)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity") +
+  guides(color = FALSE) 
+
+plot1 <- nss_full %>%
+  ggplot(aes(x = SSR, y = `Agg % positivity`*100, color = `Provider name (NSS CAH3)`)) + 
+  geom_point(alpha=0.5, size = 0.5) +
+  geom_smooth(method = "lm", se = FALSE, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity") +
+  guides(color = FALSE) 
+
+ggplotly(plot0)
+ggplotly(plot1)
+```
+
+## What if we are looking at this in the wrong way?
+
+Maybe the right way of assessing these issues is not by institution, but by discipline. It would be reasonable to argue that the different teaching methods and practices across disciplines will reflect different relationships between SSR and student satisfaction. Looking at all the *cost centres* in one go would be too lengthy for a blogpost, but perhaps we can observe a couple of them across the sector.
+
+In the following plots, I look at the relationship for a handful of disciplines: Clinical Medicine, Law, Politics and IR, and Engineering. Given the data availability, I will only look at answers on question 8, on the balance between directed and independent study. In this case, I am interested in looking at the providers separated by groups (e.g. Russel Group, Post-92, etc.)
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+#| layout-ncol: 2
+#| layout-nrow: 4
+
+pols <- read_excel("pol_data.xlsx")
+med <- read_excel("med_data.xlsx")
+eng <- read_excel("eng_data.xlsx")
+law <- read_excel("law_data.xlsx")
+
+ggplotly(pols |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5, aes(color = Group)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Politics and IR")+
+  guides(color = FALSE) )
+
+ggplotly(pols |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100, color = Group)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Politics and IR") )
+
+ggplotly(med |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5, aes(color = Group)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Clinical Medicine") +
+  guides(color = FALSE) )
+
+ggplotly(med |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100, color = Group)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Clinical Medicine"))
+
+ggplotly(eng |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5, aes(color = Group)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Engineering") +
+  guides(color = FALSE) )
+
+ggplotly(eng |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100, color = Group)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Engineering"))
+
+ggplotly(law |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5, aes(color = Group)) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Law") +
+  guides(color = FALSE) )
+
+ggplotly(law |> 
+  ggplot(aes(x = SSR, y=`Agg % positivity`*100, color = Group)) + 
+  geom_smooth(method = "lm", size = 0.5, se=FALSE) +
+  geom_point(alpha = 0.5, size = 0.5) +
+  theme_ipsum_rc() +
+  labs(y = "Agg % positivity", title = "Law"))
+```
+
+The data here shows a clear differentceby disciplines. We can observe that in general, SSR and student satisfaction seem negatively related, but with great variation across types of universities. Engineering, on the other hand, behaves in a completely different way.
+
+## Final thoughts
+
+This exercise is far from complete and does not intend to provide definite evidence about a potential impact of SSR on student satisfaction. However, I do want to provide more nuance and detail to the arguments in Kernohan's piece. As limited as the NSS data is (and as someone who conducts surveys for a living, I can spend hours talking about it), it is the most nationally available data on student views. Based on the simple analysis shown here, I believe we cannot simply discard the role that SSR play in our education offering, nor in the quality of it.
+
+That latter point is probably the most fundamental. Given the incentive structures from public policies such as TEF, universities are encouraged to treat the NSS as a target rather than a tool. Further, changes in question wordings have made it really difficult to assess what works and what not in terms of student satisfaction. Thus, in my opinion, universities should be wondering how and when do SSR improve the overall quality of their education and student experience. That question is much more complex than what the NSS can answer.
