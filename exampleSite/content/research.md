@@ -10,7 +10,7 @@ slug = "research"
 
 1. The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile  
 	with Jorge Atria and Cristóbal Rovira Kaltwasser  
-	*Book project*, CUP
+	*Book project*, under contract with Cambridge University Press
 
 2. Political Behaviour: Actors and Institutions  
 	with Sofia Collignon  

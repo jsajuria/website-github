@@ -12,7 +12,7 @@ CV Actualizado (en inglés){{% button href="/files/CV_JSajuria.pdf" icon="fas fa
 
 1. The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile  
 	with Jorge Atria and Cristóbal Rovira Kaltwasser  
-	*Book project*, CUP
+	*Book project*, bajo contrato con Cambridge University Press
 
 2. Political Behaviour: Actors and Institutions  
 	with Sofia Collignon  
