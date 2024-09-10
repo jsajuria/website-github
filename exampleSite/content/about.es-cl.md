@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Javier Sajuria"
 +++
 
-Soy profesor asociado (Reader) en la [School of Politics and International Relations](http://www.politics.qmul.ac.uk) de [Queen Mary, University of London](http://www.qmul.ac.uk). Desde Septiembre 2022 soy el Vice Decano Académico (Regulación y Empleabilidad) de la Facultad de Humanidades y Ciencias Sociales. Mi perfil en el sitio de la universidad está [aquí](https://www.qmul.ac.uk/politics/staff/profiles/sajuriajavier.html).
+Soy Profesor Titular de Política Comparada en la [School of Politics and International Relations](http://www.politics.qmul.ac.uk) de [Queen Mary, University of London](http://www.qmul.ac.uk). Desde Septiembre 2022 soy el Vice Decano Académico (Regulación y Empleabilidad) de la Facultad de Humanidades y Ciencias Sociales. Mi perfil en el sitio de la universidad está [aquí](https://www.qmul.ac.uk/politics/staff/profiles/sajuriajavier.html).
 
 Obtuve mi doctorado en Ciencia Política en [University College London](http://www.ucl.ac.uk). Antes de unirme a Queen Mary, fui profesor asistente en el [Department of Politics][2] de [Newcastle University][1] donde también estuve asociado al [Newcastle's Open Lab][3]. Anteriormente, fui investigador postdoctoral en la [School of Government and Public Policy](http://www.strath.ac.uk/humanities/schoolofgovernmentandpublicpolicy/), [University of Strathclyde](http://www.strath.ac.uk/), y parte de la [Constitution Unit][4] como investigador asociado.
 
