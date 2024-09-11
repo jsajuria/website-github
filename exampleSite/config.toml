@@ -23,7 +23,7 @@ unsafe= true
 author = "Javier Sajuria"
 description = "Javier Sajuria's personal website"
 keywords = "research, personal"
-info = "Reader (Associate Professor) in Comparative Politics @ QMUL"
+info = "Professor of Comparative Politics @ QMUL"
 avatarURL = "images/Sajuria, Javier 2_cropped.jpeg"
 #gravatar = "john.doe@example.com"
 footerContent = ""
@@ -139,7 +139,7 @@ title = "Javier Sajuria"
 
 [languages.es-cl.params]
 author = "Javier Sajuria"
-info = "Profesor Asociado (Reader) de Política Comparada @QMUL"
+info = "Profesor Titular de Política Comparada @QMUL"
 description = "Sitio personal de Javier Sajuria"
 keywords = "investigación, personal"
 #footerContent = "Coloque algum texto aqui."
