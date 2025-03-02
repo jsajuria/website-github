@@ -27,9 +27,12 @@ slug = "research"
 
 # Journal Articles
 
+1. [Local media, local candidates and preference formation](https://www.tandfonline.com/doi/full/10.1080/2474736X.2025.2461777) with Sofía Collignon
+	*Political Research Exchange* Volume 7(1), 2025
+
 1. [Why vote for an independent? The relevance of negative identity, independent identity, and dealignment in a pro-independent political environment](https://journals.sagepub.com/doi/full/10.1177/13540688231196423)  
 	with Noam Titelman  
-	*Party Politics*, forthcoming.
+	*Party Politics*, 30(6), 2025.
 
 2. [Intertwined fates? Members switching between niche and mainstream parties](https://journals.sagepub.com/doi/abs/10.1177/13540688221106299)  
 	with Sofía Collignon, Wolfgang Rüdig, Chrysa Lamprinakou and Iakovos Makropoulos  
