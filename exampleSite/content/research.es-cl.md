@@ -4,7 +4,7 @@ slug = "research"
 +++
 
 
-CV Actualizado (en inglés){{% button href="/files/CV_JSajuria.pdf" icon="fas fa-file-pdf" icon-position="right" %}}{{% /button %}}
+CV Actualizado (en inglés){{% button href="https://www.dropbox.com/scl/fi/xd08lmj0rtov8a1w4q5ue/CV_JS.pdf?rlkey=rm7h8jt9f8ke9yy1ec8swpa3c&st=fhd2t4gi&dl=0" icon="fas fa-file-pdf" icon-position="right" %}}{{% /button %}}
 
 
 
