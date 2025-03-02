@@ -66,12 +66,18 @@ icon = "fa fa-github"
 weight = 1
 url = "https://github.com/jsajuria/"
 
-
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/jsajuria/"
+name = "Linkedin"
+icon = "fa-brands fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/in/jsajuria/"
+
+
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa fa-twitter"
+#weight = 3
+#url = "https://twitter.com/jsajuria/"
 
 #[[params.social]]
 #name = "Mastodon"
