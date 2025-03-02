@@ -29,7 +29,7 @@ CV Actualizado (en inglés){{% button href="/files/CV_JSajuria.pdf" icon="fas fa
 
 # Artículos en Revistas Académicas
 
-1. [Local media, local candidates and preference formation](https://www.tandfonline.com/doi/full/10.1080/2474736X.2025.2461777) with Sofía Collignon
+1. [Local media, local candidates and preference formation](https://www.tandfonline.com/doi/full/10.1080/2474736X.2025.2461777) with Sofía Collignon   
 	*Political Research Exchange* Volume 7(1), 2025
 
 1. [Why vote for an independent? The relevance of negative identity, independent identity, and dealignment in a pro-independent political environment](https://journals.sagepub.com/doi/full/10.1177/13540688231196423)  
