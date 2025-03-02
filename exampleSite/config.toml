@@ -73,15 +73,15 @@ icon = "fa fa-twitter"
 weight = 3
 url = "https://twitter.com/jsajuria/"
 
-[[params.social]]
-name = "Mastodon"
-icon = "fa fa-mastodon"
-weight = 3
-url = "https://mastodon.online/@jsajuria"
+#[[params.social]]
+#name = "Mastodon"
+#icon = "fa fa-mastodon"
+#weight = 3
+#url = "https://mastodon.online/@jsajuria"
 
 [[params.social]]
 name = "BlueSky"
-icon = "fa fa-bluesky"
+icon = "fa-brands fa-bluesky"
 weight = 3
 url = "https://bsky.app/profile/sajuria.com"
 
