@@ -87,7 +87,7 @@ url = "https://www.linkedin.com/in/jsajuria/"
 
 [[params.social]]
 name = "BlueSky"
-icon = "fa-brands fa-bluesky"
+icon = "fa fa-bluesky"
 weight = 3
 url = "https://bsky.app/profile/sajuria.com"
 
