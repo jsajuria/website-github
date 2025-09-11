@@ -6,26 +6,19 @@ slug = "research"
 
 CV Actualizado (en inglés){{% button href="https://www.dropbox.com/scl/fi/xd08lmj0rtov8a1w4q5ue/CV_JS.pdf?rlkey=rm7h8jt9f8ke9yy1ec8swpa3c&st=fhd2t4gi&dl=0" icon="fas fa-file-pdf" icon-position="right" %}}{{% /button %}}
 
+# Intereses de investigación
+
+Mis intereses de investigación están en la intersección entre el comportamiento político, la política comparada y métodos cuantitativos.
+
+Mi agenda de investigación actual incluye:
 
 
-# Trabajos en progreso
+  - Política electoral, con intereses comparados en el Reino Unido y América Latina
+  - Élites políticas
+  - Actitudes democráticas, ultraderecha y populismo
 
-1. The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile  
-	with Jorge Atria and Cristóbal Rovira Kaltwasser  
-	*Book project*, bajo contrato con Cambridge University Press
+Si estás interesado/a en realizar tu doctorado bajo mi supervisión, envíame un correo para discutir tu proyecto.
 
-2. Political Behaviour: Actors and Institutions  
-	with Sofia Collignon  
-	*Book Project*, Sage
-	
-3. [We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal](https://osf.io/preprints/socarxiv/2ck6j/)  
-	with Jorge Fábrega and Sammy Drobny
-
-4. [Non-response Bias in Candidate Surveys](https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf)  
-	with Sofia Collignon and Wolfgang Rüdig
-
-5. Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly  
-	with Julieta Suarez-Cao
 
 # Artículos en Revistas Académicas
 
@@ -78,32 +71,38 @@ CV Actualizado (en inglés){{% button href="https://www.dropbox.com/scl/fi/xd08l
 
 # Capítulos de Libros
 
+1. [La demanda por populismo](https://osf.io/preprints/socarxiv/rk497_v1) en *Impacto, riesgos y oportunidades del populismo en Europa y América Latina,* Paulina Astroza and Cristóbal Bellolio (editors), 2024
+
 1. [Se rompió el amor: cambios en la opinión pública durante el proceso constituyente](https://osf.io/preprints/socarxiv/tpyqu/)  
 	with Emilia Saffirio  
-	in *El proceso fallido: La dinámica constituyente en Chile, 2020-2022,* Claudio Fuentes (editor). 2023
+	en *El proceso fallido: La dinámica constituyente en Chile, 2020-2022,* Claudio Fuentes (editor). 2023
 
 2. [Determinants of personalised campaigning: a comparative analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429284700-5/determinants-personalised-campaigning-iakovos-makropoulos-sofia-collignon-heiko-giebler-wolfgang-rüdig-javier-sajuria-bernhard-weßels)  
-	with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig and Bernhard Weßels  
-	in *Parliamentary Candidates Between Voters and Parties,* Lieven De Winter, Rune Karlsen, Hermann Schmitt (eds.) 2020
+	with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig y Bernhard Weßels  
+	en *Parliamentary Candidates Between Voters and Parties,* Lieven De Winter, Rune Karlsen, Hermann Schmitt (eds.) 2020
 
 3. [Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena](https://www.researchgate.net/publication/333704934_Ciclo_de_vida_y_diferencias_organizacionales_en_los_partidos_de_la_centro-derecha_chilena)  
 	with Stephanie Alenda and Tomas Dosek  
-	in *Anatomía de la centro-derecha chilena: nuevos y viejos protagonistas*, Stephanie Alenda (editor). 2020
+	en *Anatomía de la centro-derecha chilena: nuevos y viejos protagonistas*, Stephanie Alenda (editor). 2020
 
 4. [More Political, Less Voting: the Internet Paradox](https://www.google.co.uk/books/edition/More_Sex_Lies_and_the_Ballot_Box/-oakDAAAQBAJ?hl=en&gbpv=1&pg=PT50&printsec=frontcover)  
-	in *More Sex, Lies and the Ballot Box: Another 50 things you need to know about elections*, Rob Ford and Phil Cowley (eds.), 2016
+	en *More Sex, Lies and the Ballot Box: Another 50 things you need to know about elections*, Rob Ford and Phil Cowley (eds.), 2016
 
+# Trabajos en progreso
 
-# Intereses de investigación
+1. The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile  
+	with Jorge Atria and Cristóbal Rovira Kaltwasser  
+	*Book project*, bajo contrato con Cambridge University Press
 
-Mis intereses de investigación están en la intersección entre el comportamiento político, la política comparada y métodos cuantitativos.
+2. Political Behaviour: Actors and Institutions  
+	with Sofia Collignon  
+	*Book Project*, Sage
+	
+3. [We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal](https://osf.io/preprints/socarxiv/2ck6j/)  
+	with Jorge Fábrega and Sammy Drobny
 
-Mi agenda de investigación actual incluye:
+4. [Non-response Bias in Candidate Surveys](https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf)  
+	with Sofia Collignon and Wolfgang Rüdig
 
-
-  - Política electoral, con intereses comparados en el Reino Unido y América Latina
-  - Élites políticas
-  - Opinión Pública
-  - Estimación de variables latentes
-
-Si estás interesado/a en realizar tu doctorado bajo mi supervisión, envíame un correo para discutir tu proyecto.
+5. Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly  
+	with Julieta Suarez-Cao
