@@ -9,11 +9,11 @@
       <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
-    <h2><span id="typewriter-text"></span></h2>
+    <h2 id="typewriter-h2" data-text="{{ .Site.Params.info }}"><span id="typewriter-text"></span></h2>
     <script>
     (function() {
-      var text = {{ .Site.Params.info | jsonify }};
       var el = document.getElementById('typewriter-text');
+      var text = document.getElementById('typewriter-h2').dataset.text;
       var i = 0;
       function type() {
         if (i < text.length) {
