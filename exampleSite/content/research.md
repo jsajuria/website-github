@@ -68,23 +68,39 @@ I am open to any questions about potential PhD supervision, just drop me an emai
 	*Politica* 51(1), 2013
 	
 
-# Book Chapters
+# Book Chapters and Policy Papers
+
+1. [New Approaches to Defending Global Civil Society](https://europeandemocracyhub.epd.eu/new-approaches-to-defending-global-civil-society/)
+	with Richard Youngs, Elene Panchulidze, Poonam Joshi, Ann Tsurtsumia-Zurabashvili, Nicolas Bouchet, Rostislav Valvoda, Wajdi Balloumi and Anna Khakee
+	*European Democracy Hub / European Partnership for Democracy*, 2026
+
+1. [Mapeando los límites electorales de la ultraderecha: Argentina, Brasil y Chile](https://collections.fes.de/urn/urn:nbn:de:bo133-2-228361)
+	with Cristóbal Rovira Kaltwasser and Nerea Palma
+	*Friedrich-Ebert-Stiftung*, Santiago de Chile, 2025
 
 1. [La demanda por populismo](https://osf.io/preprints/socarxiv/rk497_v1) in *Impacto, riesgos y oportunidades del populismo en Europa y América Latina,* Paulina Astroza and Cristóbal Bellolio (editors), 2024
 
-1. [Se rompió el amor: cambios en la opinión pública durante el proceso constituyente](https://osf.io/preprints/socarxiv/tpyqu/)  
-	with Emilia Saffirio  
+1. [La democracia necesita ideas, no personas: personalización de la política en Chile](https://collections.fes.de/urn/urn:nbn:de:bo133-2-218963)
+	with Matías Piña and Julieta Suárez-Cao
+	*Friedrich-Ebert-Stiftung*, Santiago de Chile, 2024
+
+1. [Los engranajes del sistema político chileno: quiénes se eligen, cómo y por qué importan](https://collections.fes.de/urn/urn:nbn:de:bo133-2-217188)
+	with Matías Piña and Julieta Suárez-Cao
+	*Friedrich-Ebert-Stiftung*, Santiago de Chile, 2024
+
+1. [Se rompió el amor: cambios en la opinión pública durante el proceso constituyente](https://osf.io/preprints/socarxiv/tpyqu/)
+	with Emilia Saffirio
 	in *El proceso fallido: La dinámica constituyente en Chile, 2020-2022,* Claudio Fuentes (editor). 2023
 
-2. [Determinants of personalised campaigning: a comparative analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429284700-5/determinants-personalised-campaigning-iakovos-makropoulos-sofia-collignon-heiko-giebler-wolfgang-rüdig-javier-sajuria-bernhard-weßels)  
-	with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig and Bernhard Weßels  
+1. [Determinants of personalised campaigning: a comparative analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429284700-5/determinants-personalised-campaigning-iakovos-makropoulos-sofia-collignon-heiko-giebler-wolfgang-rüdig-javier-sajuria-bernhard-weßels)
+	with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig and Bernhard Weßels
 	in *Parliamentary Candidates Between Voters and Parties,* Lieven De Winter, Rune Karlsen, Hermann Schmitt (eds.) 2020
 
-3. [Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena](https://www.researchgate.net/publication/333704934_Ciclo_de_vida_y_diferencias_organizacionales_en_los_partidos_de_la_centro-derecha_chilena)  
-	with Stephanie Alenda and Tomas Dosek  
+1. [Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena](https://www.researchgate.net/publication/333704934_Ciclo_de_vida_y_diferencias_organizacionales_en_los_partidos_de_la_centro-derecha_chilena)
+	with Stephanie Alenda and Tomas Dosek
 	in *Anatomía de la centro-derecha chilena: nuevos y viejos protagonistas*, Stephanie Alenda (editor). 2020
 
-4. [More Political, Less Voting: the Internet Paradox](https://www.google.co.uk/books/edition/More_Sex_Lies_and_the_Ballot_Box/-oakDAAAQBAJ?hl=en&gbpv=1&pg=PT50&printsec=frontcover)  
+1. [More Political, Less Voting: the Internet Paradox](https://www.google.co.uk/books/edition/More_Sex_Lies_and_the_Ballot_Box/-oakDAAAQBAJ?hl=en&gbpv=1&pg=PT50&printsec=frontcover)
 	in *More Sex, Lies and the Ballot Box: Another 50 things you need to know about elections*, Rob Ford and Phil Cowley (eds.), 2016
 
 # Work in Progress
