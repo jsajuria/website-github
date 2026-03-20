@@ -134,14 +134,13 @@ def escape_toml_string(s):
 
 def make_post(article):
     """
-    Write a Hugo markdown post file for the given article.
-    Returns the path of the created file.
+    Write Hugo markdown post files for the given article.
+    Creates both .md (English/default) and .es-cl.md (Spanish) so the
+    post appears in both language versions of the site.
+    Returns the list of paths created.
     """
     slug = slug_from_url(article["url"])
     date = article["date"]
-    filename = f"{date}-{slug}.es-cl.md"
-    filepath = os.path.join(POSTS_DIR, filename)
-
     title_escaped = escape_toml_string(article["title"])
 
     content = f"""+++
@@ -161,11 +160,15 @@ _Columna publicada en [La Tercera][1]_
  [1]: {article['url']}
 """
 
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(content)
+    created = []
+    for ext in (f"{date}-{slug}.md", f"{date}-{slug}.es-cl.md"):
+        filepath = os.path.join(POSTS_DIR, ext)
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(content)
+        print(f"  Created: {filepath}")
+        created.append(filepath)
 
-    print(f"  Created: {filepath}")
-    return filepath
+    return created
 
 
 def main():
@@ -191,8 +194,7 @@ def main():
             print(f"  SKIPPING {url} (extraction failed)")
             continue
 
-        filepath = make_post(article)
-        new_files.append(filepath)
+        new_files.extend(make_post(article))
         existing_slugs.add(slug)
 
         # Be polite to the server

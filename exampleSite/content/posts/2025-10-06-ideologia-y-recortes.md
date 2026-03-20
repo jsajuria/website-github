@@ -1,0 +1,15 @@
++++
+title = "Ideología y recortes"
+author = "Javier Sajuria"
+date = "2025-10-06"
+slug = "ideologia-y-recortes"
+categories = ["Press", "Spanish"]
+tags = ["La Tercera"]
+
++++
+
+_Columna publicada en [La Tercera][1]_
+
+La alusión directa que hizo el Presidente Boric a la propuesta de recortes de gasto público de Kast puede ser estratégicamente torpe y éticamente reprochable; al menos eso parece opinar la mayoría de los columnistas de la plaza. Pero los juicios sobre la oportunidad de sus declaraciones no debieran hacernos obviar su sentido: los recortes de Kast carecen de evidencia técnica y obedecen a criterios ideológicos. Su insistencia con el tema denota, además, obsecuencia con sus propias ideas. El primer criterio ideológico que pareciera inspirar sus ideas es una desconfianza patológica sobre la labor del Estado. Eso suele ocurrir con más fuerza entre quienes menos necesitan del Estado en sus vidas. Kast ha hablado de eliminar operadores políticos, pero dudo que su gobierno no llene los cargos de confianza con sus partidarios. Por un lado, la cantidad de esos cargos no cubren los montos de recortes que propone, y por otro, necesitamos que muchos de esos cargos se ocupen. Si el equipo de la ultraderecha estuviese proponiendo una reforma profunda al servicio civil, donde la cantidad de cargos de confianza fuese la mínima posible y el resto se llenara por concurso, la discusión sería distinta. Pero eso no va a ocurrir, Kast necesita esos cargos para negociar apoyos en la segunda vuelta y en un eventual gobierno. Además, cuando se han implementado recortes de este estilo, los resultados han sido devastadores. Investigaciones muestran como las propuestas de austeridad en Europa alimentaron a partidos políticos extremos, aumentaron la fragmentación, aumentaron la desigualdad y, aún más trágico, afectaron indicadores como la esperanza de vida y la salud de las mujeres. El otro componente ideológico es aún más perverso. Por más que se esfuercen en esconder su verdadero interés, Kast y sus seguidores llevan años liderando una batalla contra los derechos de las mujeres y de cualquier otro grupo minoritario. Hasta 2024, Kast era el presidente de la Political Network for Values, una asociación internacional que va por el mundo promoviendo y haciendo lobby en contra de los derechos reproductivos, el aborto, el matrimonio igualitario y cualquier otra cosa que afecte su concepto limitado de familia. Es hipócrita pretender que, después de décadas formando equipos para promover estas ideas, no vaya a usar el poder del Estado para promoverlas. Asimismo, la alusión de Arturo Squella a que los recortes irán en temas ideológicos, nos da una idea de dónde saldrán los millones de dólares de recortes: de la protección de derechos reproductivos, de la educación sexual en los colegios, de los programas antidiscriminación y de todo otro beneficio que reciban mujeres y minorías. Para ellos no va a alcanzar el Estado que imagina la ultraderecha. Por Javier Sajuria, profesor de Ciencia Política en Queen Mary University of London y director de Espacio Público.
+
+ [1]: https://www.latercera.com/opinion/noticia/ideologia-y-recortes/
