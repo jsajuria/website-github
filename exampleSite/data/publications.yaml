@@ -161,7 +161,7 @@ themes:
   - id: digital-politics-social-media
     title: Digital Politics and Social Media
     title_es: Política Digital y Redes Sociales
-    open: false
+    open: true
     publications:
 
       - title: "Civil society in times of crisis: Understanding collective action dynamics in digitally-enabled volunteer networks"
