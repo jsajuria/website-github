@@ -52,6 +52,16 @@ themes:
         abstract: >-
           This study explores the role of local media consumption in shaping voter preferences for local candidates. Drawing on British Election Study data from the 2017 UK General Election, the paper examines how local media influences voter preference for candidates with strong local ties. The findings reveal a nuanced relationship: although local newspaper readership does not directly correlate with preference for local candidates, the influence is conditional on the amount of time spent consuming local media. This highlights the complexity of voter behaviour and underscores the importance of connecting political representation to geographically specific concerns.
 
+      - title: "Why vote for an independent? The relevance of negative identity, independent identity, and dealignment in a pro-independent political environment"
+        authors: "with Noam Titelman"
+        venue: "*Party Politics* 30(6)"
+        year: 2025
+        type: journal_article
+        doi: "10.1177/13540688231196423"
+        url: "https://journals.sagepub.com/doi/full/10.1177/13540688231196423"
+        abstract: >-
+          We study the case of Chile—a country that until recently was cited as an example of a stable and institutionalized party system—where independent candidates have shaken the national party system. Using a conjoint experiment, we find that candidates presented as independents have a significantly higher probability of being chosen. This effect is strongest among respondents with low animosity towards independents and high animosity towards traditional parties, suggesting that the recent rise of independent candidates is a result of growing negative views on traditional parties.
+
       - title: "Intertwined fates? Members switching between niche and mainstream parties"
         authors: "with Sofía Collignon, Wolfgang Rüdig, Chrysa Lamprinakou and Iakovos Makropoulos"
         venue: "*Party Politics* 29(5)"
@@ -111,16 +121,6 @@ themes:
     title_es: Política Latinoamericana
     open: true
     publications:
-
-      - title: "Why vote for an independent? The relevance of negative identity, independent identity, and dealignment in a pro-independent political environment"
-        authors: "with Noam Titelman"
-        venue: "*Party Politics* 30(6)"
-        year: 2025
-        type: journal_article
-        doi: "10.1177/13540688231196423"
-        url: "https://journals.sagepub.com/doi/full/10.1177/13540688231196423"
-        abstract: >-
-          We study the case of Chile—a country that until recently was cited as an example of a stable and institutionalized party system—where independent candidates have shaken the national party system. Using a conjoint experiment, we find that candidates presented as independents have a significantly higher probability of being chosen. This effect is strongest among respondents with low animosity towards independents and high animosity towards traditional parties, suggesting that the recent rise of independent candidates is a result of growing negative views on traditional parties.
 
       - title: "Los engranajes del sistema político chileno: quiénes se eligen, cómo y por qué importan"
         authors: "with Matías Piña and Julieta Suárez-Cao"
