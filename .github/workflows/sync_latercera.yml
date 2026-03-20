@@ -1,0 +1,36 @@
+name: Sync La Tercera columns
+
+on:
+  schedule:
+    - cron: "0 10 * * 1"  # Every Monday at 10am UTC (7am Chile time)
+  workflow_dispatch:        # Allows manual trigger from the GitHub Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to push commits back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run La Tercera sync script
+        run: python .github/scripts/sync_latercera.py
+
+      - name: Commit and push new posts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add exampleSite/content/posts/
+          # Only commit if there are staged changes
+          git diff --staged --quiet || git commit -m "Add new La Tercera columns [automated]"
+          git push
