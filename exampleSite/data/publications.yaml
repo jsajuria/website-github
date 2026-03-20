@@ -6,16 +6,6 @@ themes:
     open: true
     publications:
 
-      - title: "Informed, uninformed or misinformed? A cross-national analysis of populist party supporters across European democracies"
-        authors: "with Stijn van Kessel and Steven van Hauwaert"
-        venue: "*West European Politics* 44(3), 585–610"
-        year: 2020
-        type: journal_article
-        doi: "10.1080/01402382.2019.1700448"
-        url: "https://figshare.com/articles/Informed_uninformed_or_misinformed_A_cross-national_analysis_of_populist_party_supporters_across_European_democracies/11635794"
-        abstract: >-
-          Recent research suggests that populist party supporters are not necessarily unsophisticated protest voters. This leads us to question the still popular assumption that these individuals are politically uninformed. Simultaneously, given debates about 'fake news', this article asks to what extent misinformation—the possession of erroneous political information—stimulates populist support. Survey data from nine European democracies are used to assess what differs between abstainers and non-populist supporters in terms of their political information and misinformation. It is found that holding correct political information relates positively to the likelihood of voting, whether in support of populist or non-populist parties. It is further found that misinformation relates positively to right-wing populist support.
-
       - title: "New Approaches to Defending Global Civil Society"
         authors: "with Richard Youngs, Elene Panchulidze, Poonam Joshi, Ann Tsurtsumia-Zurabashvili, Nicolas Bouchet, Rostislav Valvoda, Wajdi Balloumi and Anna Khakee"
         venue: "European Democracy Hub / European Partnership for Democracy"
@@ -35,6 +25,16 @@ themes:
         year: 2024
         type: book_chapter
         url: "https://osf.io/preprints/socarxiv/rk497_v1"
+
+      - title: "Informed, uninformed or misinformed? A cross-national analysis of populist party supporters across European democracies"
+        authors: "with Stijn van Kessel and Steven van Hauwaert"
+        venue: "*West European Politics* 44(3), 585–610"
+        year: 2020
+        type: journal_article
+        doi: "10.1080/01402382.2019.1700448"
+        url: "https://figshare.com/articles/Informed_uninformed_or_misinformed_A_cross-national_analysis_of_populist_party_supporters_across_European_democracies/11635794"
+        abstract: >-
+          Recent research suggests that populist party supporters are not necessarily unsophisticated protest voters. This leads us to question the still popular assumption that these individuals are politically uninformed. Simultaneously, given debates about 'fake news', this article asks to what extent misinformation—the possession of erroneous political information—stimulates populist support. Survey data from nine European democracies are used to assess what differs between abstainers and non-populist supporters in terms of their political information and misinformation. It is found that holding correct political information relates positively to the likelihood of voting, whether in support of populist or non-populist parties. It is further found that misinformation relates positively to right-wing populist support.
 
   - id: electoral-party-politics
     title: Electoral Politics, Party Politics and Membership
@@ -82,14 +82,6 @@ themes:
         abstract: >-
           When Green parties emerged in the 1970s and 1980s, their political project included a strong commitment to a new type of internal party organization, giving power to 'grass roots'. With Green parties now well established in most West European systems, has the vision of 'grass-roots democracy' survived the foundation stage? Analysing party membership survey data from 15 Green parties, we find that it is the socially movement-oriented, pacifist, left-wing membership that remains committed to internal democracy. Support for grass-roots democracy is stronger in 'Latin Europe' but weaker in Green parties that have become involved in parliament and government.
 
-      - title: "Local means local, does it? Regional identification and preferences for local candidates"
-        authors: "with Sofia Collignon"
-        venue: "*Electoral Studies* 56, 170–178"
-        year: 2018
-        type: journal_article
-        doi: "10.1016/j.electstud.2018.07.003"
-        pdf: "/papers/local-means-local-2018.pdf"
-
       - title: "Determinants of personalised campaigning: a comparative analysis"
         authors: "with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig and Bernhard Weßels"
         venue: "in *Parliamentary Candidates Between Voters and Parties*, Lieven De Winter, Rune Karlsen, Hermann Schmitt (eds.)"
@@ -99,6 +91,14 @@ themes:
         url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9780429284700-5/determinants-personalised-campaigning-iakovos-makropoulos-sofia-collignon-heiko-giebler-wolfgang-r%C3%BCdig-javier-sajuria-bernhard-we%C3%9Fels"
         abstract: >-
           This chapter analyses how much campaign personalisation is taking place, where and why. Three elements of personal vote-seeking strategies are evaluated: campaign focus, means, and local constituency activities. We find that institutional incentives for a personal vote are an important predictor of personalised campaigning, but candidate-related features also matter. Apart from candidate visibility, the perception of electoral success and campaign intensity are strongly related to all three types of campaigning. Electoral systems matter, but there is still substantial heterogeneity due to candidate-related factors within the same system.
+
+      - title: "Local means local, does it? Regional identification and preferences for local candidates"
+        authors: "with Sofia Collignon"
+        venue: "*Electoral Studies* 56, 170–178"
+        year: 2018
+        type: journal_article
+        doi: "10.1016/j.electstud.2018.07.003"
+        pdf: "/papers/local-means-local-2018.pdf"
 
       - title: "More Political, Less Voting: the Internet Paradox"
         venue: "in *More Sex, Lies and the Ballot Box*, Rob Ford and Phil Cowley (eds.)"
@@ -122,14 +122,6 @@ themes:
         abstract: >-
           We study the case of Chile—a country that until recently was cited as an example of a stable and institutionalized party system—where independent candidates have shaken the national party system. Using a conjoint experiment, we find that candidates presented as independents have a significantly higher probability of being chosen. This effect is strongest among respondents with low animosity towards independents and high animosity towards traditional parties, suggesting that the recent rise of independent candidates is a result of growing negative views on traditional parties.
 
-      - title: "Chile 2020: pandemia y plebiscito constitucional"
-        authors: "with Carlos Meléndez and Cristóbal Rovira Kaltwasser"
-        venue: "*Revista de Ciencia Política* 41(2), 263–290"
-        year: 2021
-        type: journal_article
-        doi: "10.4067/s0718-090x2021005000114"
-        url: "https://www.scielo.cl/pdf/revcipol/2021nahead/0718-090X-revcipol-S0718-090X2021005000114.pdf"
-
       - title: "Los engranajes del sistema político chileno: quiénes se eligen, cómo y por qué importan"
         authors: "with Matías Piña and Julieta Suárez-Cao"
         venue: "Friedrich-Ebert-Stiftung, Santiago de Chile"
@@ -150,6 +142,14 @@ themes:
         year: 2023
         type: book_chapter
         url: "https://osf.io/preprints/socarxiv/tpyqu/"
+
+      - title: "Chile 2020: pandemia y plebiscito constitucional"
+        authors: "with Carlos Meléndez and Cristóbal Rovira Kaltwasser"
+        venue: "*Revista de Ciencia Política* 41(2), 263–290"
+        year: 2021
+        type: journal_article
+        doi: "10.4067/s0718-090x2021005000114"
+        url: "https://www.scielo.cl/pdf/revcipol/2021nahead/0718-090X-revcipol-S0718-090X2021005000114.pdf"
 
       - title: "Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena"
         authors: "with Stephanie Alenda and Tomas Dosek"
