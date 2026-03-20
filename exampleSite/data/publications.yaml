@@ -35,14 +35,6 @@ themes:
         type: book_chapter
         url: "https://osf.io/preprints/socarxiv/rk497_v1"
 
-      - title: "We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal"
-        authors: "with Jorge Fábrega and Sammy Drobny"
-        venue: "Working paper"
-        type: working_paper
-        url: "https://osf.io/preprints/socarxiv/2ck6j/"
-        abstract: >-
-          In the search for ideological balance, political actors can design rules that unintentionally introduce polarisation. This is particularly relevant within the judiciary, since judges' reputational concerns sustain this polarisation over time. Taking advantage of a constitutional reform in Chile in 2005 that modified its Constitutional Court, we provide evidence of increased polarisation due to changes in the judges' nomination procedure. Our results confirm that different methods of appointment are related to the level of polarisation of those nominated—an unexpected outcome that presents particular challenges for institutional legitimacy.
-
   - id: electoral-latin-american
     title: Electoral Politics and Latin American Politics
     open: true
@@ -148,16 +140,6 @@ themes:
         type: book_chapter
         url: "https://www.google.co.uk/books/edition/More_Sex_Lies_and_the_Ballot_Box/-oakDAAAQBAJ?hl=en&gbpv=1&pg=PT50&printsec=frontcover"
 
-      - title: "The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile"
-        authors: "with Jorge Atria and Cristóbal Rovira Kaltwasser"
-        venue: "Book project, under contract with Cambridge University Press"
-        type: book
-
-      - title: "Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly"
-        authors: "with Julieta Suarez-Cao"
-        venue: "Working paper"
-        type: working_paper
-
   - id: party-politics-membership
     title: Party Politics and Membership
     open: true
@@ -172,17 +154,6 @@ themes:
         pdf: "/papers/green-party-members-grassroots-democracy-2020.pdf"
         abstract: >-
           When Green parties emerged in the 1970s and 1980s, their political project included a strong commitment to a new type of internal party organization, giving power to 'grass roots'. With Green parties now well established in most West European systems, has the vision of 'grass-roots democracy' survived the foundation stage? Analysing party membership survey data from 15 Green parties, we find that it is the socially movement-oriented, pacifist, left-wing membership that remains committed to internal democracy. Support for grass-roots democracy is stronger in 'Latin Europe' but weaker in Green parties that have become involved in parliament and government.
-
-      - title: "Political Behaviour: Actors and Institutions"
-        authors: "with Sofia Collignon"
-        venue: "Book project, Sage"
-        type: book
-
-      - title: "Non-response Bias in Candidate Surveys"
-        authors: "with Sofia Collignon and Wolfgang Rüdig"
-        venue: "Working paper"
-        type: working_paper
-        url: "https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf"
 
   - id: digital-politics-social-media
     title: Digital Politics and Social Media
@@ -227,3 +198,37 @@ themes:
         url: "https://www.redalyc.org/pdf/645/64528862001.pdf"
         abstract: >-
           This research analyses two specific contentious processes to assess the possible effect that the Internet may have had on protesters' perception of democracy. Through data gathered from online surveys, interviews, and the Oxford Internet Survey, this article observes the effect on two dimensions: support for democracy and protesters' conception of democracy. Preliminary results show that Internet use is related to a more horizontal conception of democracy, but further analyses are required to test whether this association is caused by the Internet or by a utopian discourse about technology.
+
+  - id: work-in-progress
+    title: Work in Progress
+    open: true
+    publications:
+
+      - title: "The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile"
+        authors: "with Jorge Atria and Cristóbal Rovira Kaltwasser"
+        venue: "Book project, under contract with Cambridge University Press"
+        type: book
+
+      - title: "Political Behaviour: Actors and Institutions"
+        authors: "with Sofia Collignon"
+        venue: "Book project, Sage"
+        type: book
+
+      - title: "We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal"
+        authors: "with Jorge Fábrega and Sammy Drobny"
+        venue: "Working paper"
+        type: working_paper
+        url: "https://osf.io/preprints/socarxiv/2ck6j/"
+        abstract: >-
+          In the search for ideological balance, political actors can design rules that unintentionally introduce polarisation. This is particularly relevant within the judiciary, since judges' reputational concerns sustain this polarisation over time. Taking advantage of a constitutional reform in Chile in 2005 that modified its Constitutional Court, we provide evidence of increased polarisation due to changes in the judges' nomination procedure. Our results confirm that different methods of appointment are related to the level of polarisation of those nominated—an unexpected outcome that presents particular challenges for institutional legitimacy.
+
+      - title: "Non-response Bias in Candidate Surveys"
+        authors: "with Sofia Collignon and Wolfgang Rüdig"
+        venue: "Working paper"
+        type: working_paper
+        url: "https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf"
+
+      - title: "Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly"
+        authors: "with Julieta Suarez-Cao"
+        venue: "Working paper"
+        type: working_paper
