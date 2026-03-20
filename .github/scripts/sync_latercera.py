@@ -86,45 +86,80 @@ def fetch_article(url):
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Try JSON-LD structured data first (most reliable)
+    # Extract title and date from JSON-LD
+    title = ""
+    date = ""
     for script in soup.find_all("script", type="application/ld+json"):
         try:
             data = json.loads(script.string or "")
-            # Handle both single objects and arrays
             if isinstance(data, list):
                 data = next((d for d in data if d.get("@type") == "NewsArticle"), None)
                 if not data:
                     continue
-            if data.get("@type") == "NewsArticle":
+            if data and data.get("@type") == "NewsArticle":
                 title = data.get("headline", "").strip()
                 date_raw = data.get("datePublished", "")
-                body = data.get("articleBody", "").strip()
-
-                if not title or not body:
-                    print(f"  WARNING: JSON-LD found but title or body is empty for {url}")
-                    return None
-
-                # Normalise date to YYYY-MM-DD
                 date = date_raw[:10] if date_raw else ""
                 if not re.match(r"\d{4}-\d{2}-\d{2}", date):
                     print(f"  WARNING: Unexpected date format '{date_raw}' for {url}")
-                    return None
-
-                # Convert plain-text body paragraphs to markdown paragraphs
-                paragraphs = [p.strip() for p in body.split("\n") if p.strip()]
-                body_md = "\n\n".join(paragraphs)
-
-                return {
-                    "title": title,
-                    "date": date,
-                    "body": body_md,
-                    "url": url,
-                }
+                    date = ""
+                break
         except (json.JSONDecodeError, AttributeError):
             continue
 
-    print(f"  WARNING: Could not extract article data from {url}")
-    return None
+    if not title or not date:
+        print(f"  WARNING: Could not extract title/date from {url}")
+        return None
+
+    # Extract paragraphs from Arc XP content_elements JSON (preserves paragraph breaks)
+    body_md = ""
+    for script in soup.find_all("script"):
+        text = script.string or ""
+        if "content_elements" not in text:
+            continue
+        # Find the JSON object containing content_elements
+        match = re.search(r'\{[^{}]*"content_elements"\s*:\s*\[.*?\]\s*[,}]', text, re.DOTALL)
+        if not match:
+            # Try broader search for the fusion state / page data blob
+            match = re.search(r'"content_elements"\s*:\s*(\[.*?\])\s*[,}]', text, re.DOTALL)
+            if not match:
+                continue
+            elements = json.loads(match.group(1))
+        else:
+            try:
+                elements = json.loads(match.group(0)).get("content_elements", [])
+            except json.JSONDecodeError:
+                inner = re.search(r'"content_elements"\s*:\s*(\[.*?\])\s*[,}]', text, re.DOTALL)
+                if not inner:
+                    continue
+                elements = json.loads(inner.group(1))
+
+        paragraphs = [
+            el["content"].strip()
+            for el in elements
+            if el.get("type") == "text" and el.get("content", "").strip()
+        ]
+        if paragraphs:
+            body_md = "\n\n".join(paragraphs)
+            break
+
+    # Fall back to HTML <p> tags inside the article element
+    if not body_md:
+        article_el = soup.find("article") or soup.find(class_=re.compile(r"article|story|body", re.I))
+        if article_el:
+            paragraphs = [p.get_text(strip=True) for p in article_el.find_all("p") if p.get_text(strip=True)]
+            body_md = "\n\n".join(paragraphs)
+
+    if not body_md:
+        print(f"  WARNING: Could not extract body text from {url}")
+        return None
+
+    return {
+        "title": title,
+        "date": date,
+        "body": body_md,
+        "url": url,
+    }
 
 
 def escape_toml_string(s):
