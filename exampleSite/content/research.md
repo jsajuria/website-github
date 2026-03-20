@@ -70,21 +70,21 @@ I am open to any questions about potential PhD supervision, just drop me an emai
 
 # Book Chapters and Policy Papers
 
-1. [New Approaches to Defending Global Civil Society](https://europeandemocracyhub.epd.eu/new-approaches-to-defending-global-civil-society/)
+1. [New Approaches to Defending Global Civil Society](/papers/new-approaches-defending-global-civil-society-2026.pdf)
 	with Richard Youngs, Elene Panchulidze, Poonam Joshi, Ann Tsurtsumia-Zurabashvili, Nicolas Bouchet, Rostislav Valvoda, Wajdi Balloumi and Anna Khakee
 	*European Democracy Hub / European Partnership for Democracy*, 2026
 
-1. [Mapeando los límites electorales de la ultraderecha: Argentina, Brasil y Chile](https://collections.fes.de/urn/urn:nbn:de:bo133-2-228361)
+1. [Mapeando los límites electorales de la ultraderecha: Argentina, Brasil y Chile](/papers/mapeando-limites-electorales-ultraderecha-2025.pdf)
 	with Cristóbal Rovira Kaltwasser and Nerea Palma
 	*Friedrich-Ebert-Stiftung*, Santiago de Chile, 2025
 
 1. [La demanda por populismo](https://osf.io/preprints/socarxiv/rk497_v1) in *Impacto, riesgos y oportunidades del populismo en Europa y América Latina,* Paulina Astroza and Cristóbal Bellolio (editors), 2024
 
-1. [La democracia necesita ideas, no personas: personalización de la política en Chile](https://collections.fes.de/urn/urn:nbn:de:bo133-2-218963)
+1. [La democracia necesita ideas, no personas: personalización de la política en Chile](/papers/democracia-necesita-ideas-2024.pdf)
 	with Matías Piña and Julieta Suárez-Cao
 	*Friedrich-Ebert-Stiftung*, Santiago de Chile, 2024
 
-1. [Los engranajes del sistema político chileno: quiénes se eligen, cómo y por qué importan](https://collections.fes.de/urn/urn:nbn:de:bo133-2-217188)
+1. [Los engranajes del sistema político chileno: quiénes se eligen, cómo y por qué importan](/papers/engranajes-sistema-politico-chileno-2024.pdf)
 	with Matías Piña and Julieta Suárez-Cao
 	*Friedrich-Ebert-Stiftung*, Santiago de Chile, 2024
 
