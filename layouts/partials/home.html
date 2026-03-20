@@ -9,24 +9,16 @@
       <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
-    <h2><span id="typewriter-text"></span><span id="typewriter-cursor" aria-hidden="true">|</span></h2>
+    <h2><span id="typewriter-text"></span></h2>
     <script>
     (function() {
       var text = {{ .Site.Params.info | jsonify }};
       var el = document.getElementById('typewriter-text');
-      var cursor = document.getElementById('typewriter-cursor');
       var i = 0;
-      var speed = 45;
-      cursor.style.cssText = 'display:inline-block;margin-left:1px;animation:tw-blink 0.7s step-end infinite;';
-      var style = document.createElement('style');
-      style.textContent = '@keyframes tw-blink{0%,100%{opacity:1}50%{opacity:0}}';
-      document.head.appendChild(style);
       function type() {
         if (i < text.length) {
           el.textContent += text.charAt(i++);
-          setTimeout(type, speed);
-        } else {
-          setTimeout(function(){ cursor.style.display = 'none'; }, 800);
+          setTimeout(type, 45);
         }
       }
       type();
