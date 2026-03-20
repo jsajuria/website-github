@@ -1,0 +1,277 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+
+{{ define "content" }}
+<style>
+.page-research { max-width: 800px; }
+
+/* ── Intro ────────────────────────────────────────────── */
+.research-intro { margin-bottom: 2.5rem; }
+
+/* ── Theme sections ───────────────────────────────────── */
+.pub-theme { margin-bottom: 1.5rem; border: 1px solid rgba(128,128,128,0.2); border-radius: 6px; overflow: hidden; }
+
+.pub-theme-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.85rem 1.1rem;
+  cursor: pointer;
+  user-select: none;
+  background: rgba(128,128,128,0.06);
+  border-bottom: 1px solid rgba(128,128,128,0.15);
+}
+.pub-theme-header:hover { background: rgba(128,128,128,0.11); }
+.pub-theme-header h2 {
+  margin: 0;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  flex: 1;
+}
+.pub-theme-count {
+  font-size: 0.78rem;
+  opacity: 0.55;
+  font-weight: normal;
+}
+.pub-theme-chevron {
+  transition: transform 0.2s ease;
+  opacity: 0.6;
+  flex-shrink: 0;
+}
+.pub-theme-header[aria-expanded="false"] .pub-theme-chevron {
+  transform: rotate(-90deg);
+}
+
+.pub-theme-body { padding: 0 1.1rem; }
+.pub-theme-body.hidden { display: none; }
+
+/* ── Publication cards ────────────────────────────────── */
+.pub-card {
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(128,128,128,0.12);
+}
+.pub-card:last-child { border-bottom: none; }
+
+.pub-card-top {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+.pub-card-main { flex: 1; min-width: 0; }
+
+.pub-title { font-weight: 600; line-height: 1.4; }
+.pub-title a { text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+
+.pub-authors { font-size: 0.88rem; margin-top: 0.2rem; opacity: 0.8; }
+.pub-venue   { font-size: 0.88rem; margin-top: 0.1rem; opacity: 0.65; }
+
+/* ── Type badge ───────────────────────────────────────── */
+.pub-type-badge {
+  flex-shrink: 0;
+  font-size: 0.68rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  white-space: nowrap;
+  margin-top: 0.2rem;
+  border: 1px solid transparent;
+}
+.pub-type-journal_article { border-color: #4a90d9; color: #4a90d9; }
+.pub-type-book_chapter    { border-color: #9b59b6; color: #9b59b6; }
+.pub-type-policy_paper    { border-color: #27ae60; color: #27ae60; }
+.pub-type-working_paper   { border-color: #e67e22; color: #e67e22; }
+.pub-type-book            { border-color: #8e44ad; color: #8e44ad; }
+
+/* ── Buttons row ──────────────────────────────────────── */
+.pub-buttons {
+  margin-top: 0.55rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+.pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  padding: 0.22rem 0.65rem;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid rgba(128,128,128,0.4);
+  opacity: 0.75;
+  transition: opacity 0.15s, background 0.15s;
+  line-height: 1.4;
+}
+.pub-btn:hover { opacity: 1; text-decoration: none; }
+.pub-btn-abstract {
+  cursor: pointer;
+  background: transparent;
+  font-family: inherit;
+  color: inherit;
+}
+.pub-btn-abstract.open {
+  background: rgba(128,128,128,0.12);
+  opacity: 1;
+}
+
+/* ── Abstract box ─────────────────────────────────────── */
+.pub-abstract {
+  display: none;
+  margin-top: 0.75rem;
+  padding: 0.75rem 0.9rem;
+  background: rgba(128,128,128,0.07);
+  border-left: 3px solid rgba(128,128,128,0.3);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88rem;
+  line-height: 1.65;
+}
+.pub-abstract.visible { display: block; }
+
+/* ── Altmetric ────────────────────────────────────────── */
+.pub-altmetric { display: inline-flex; align-items: center; margin-left: 0.1rem; }
+</style>
+
+<div class="container">
+  <article class="page-research">
+
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="research-intro">
+      {{ .Content }}
+    </div>
+
+    {{ $pubs := .Site.Data.publications }}
+
+    {{ range $pubs.themes }}
+    {{ $count := len .publications }}
+    <section class="pub-theme">
+
+      <div class="pub-theme-header"
+           role="button"
+           tabindex="0"
+           aria-expanded="{{ if .open }}true{{ else }}false{{ end }}"
+           onclick="toggleTheme(this)"
+           onkeydown="if(event.key==='Enter'||event.key===' ')toggleTheme(this)">
+        <svg class="pub-theme-chevron" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M3 5l4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <h2>{{ .title }}</h2>
+        <span class="pub-theme-count">{{ $count }}</span>
+      </div>
+
+      <div class="pub-theme-body{{ if not .open }} hidden{{ end }}">
+        {{ range .publications }}
+        <div class="pub-card">
+          <div class="pub-card-top">
+            <div class="pub-card-main">
+
+              <div class="pub-title">
+                {{ if or .url .pdf }}
+                  <a href="{{ if .pdf }}{{ .pdf }}{{ else }}{{ .url }}{{ end }}"
+                    {{ if not .pdf }} target="_blank" rel="noopener"{{ end }}>{{ .title }}</a>
+                {{ else }}
+                  {{ .title }}
+                {{ end }}
+              </div>
+
+              {{ if .authors }}<div class="pub-authors">{{ .authors }}</div>{{ end }}
+
+              <div class="pub-venue">
+                {{ .venue | markdownify }}{{ if .year }}, {{ .year }}{{ end }}
+              </div>
+
+              <div class="pub-buttons">
+                {{ if .pdf }}
+                  <a class="pub-btn" href="{{ .pdf }}"
+                    {{ if not (hasPrefix .pdf "/") }} target="_blank" rel="noopener"{{ end }}>
+                    <i class="fas fa-file-pdf"></i> PDF
+                  </a>
+                {{ end }}
+
+                {{ if .url }}
+                  <a class="pub-btn" href="{{ .url }}" target="_blank" rel="noopener">
+                    {{ if eq .type "working_paper" }}
+                      <i class="fas fa-file-alt"></i> Preprint
+                    {{ else }}
+                      <i class="fas fa-external-link-alt"></i> Link
+                    {{ end }}
+                  </a>
+                {{ end }}
+
+                {{ if and .pdf .url }}
+                  {{/* PDF already shown; also show Link separately */}}
+                {{ end }}
+
+                {{ if .abstract }}
+                  <button class="pub-btn pub-btn-abstract" onclick="toggleAbstract(this)">
+                    <i class="fas fa-align-left"></i> Abstract
+                  </button>
+                {{ end }}
+
+                {{ if .doi }}
+                  <span class="pub-altmetric">
+                    <div class="altmetric-embed"
+                         data-badge-type="donut"
+                         data-badge-popover="right"
+                         data-doi="{{ .doi }}"
+                         data-hide-no-mentions="true"
+                         data-link-target="_blank"></div>
+                  </span>
+                {{ end }}
+              </div>
+
+              {{ if .abstract }}
+                <div class="pub-abstract">{{ .abstract }}</div>
+              {{ end }}
+
+            </div>
+
+            {{/* Type badge */}}
+            {{ $type := .type }}
+            <span class="pub-type-badge pub-type-{{ $type }}">
+              {{ if eq $type "journal_article" }}Journal Article
+              {{ else if eq $type "book_chapter" }}Book Chapter
+              {{ else if eq $type "policy_paper" }}Policy Paper
+              {{ else if eq $type "working_paper" }}Working Paper
+              {{ else if eq $type "book" }}Book
+              {{ end }}
+            </span>
+
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+    </section>
+    {{ end }}
+
+  </article>
+</div>
+
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+<script>
+function toggleTheme(header) {
+  var expanded = header.getAttribute('aria-expanded') === 'true';
+  header.setAttribute('aria-expanded', !expanded);
+  var body = header.nextElementSibling;
+  body.classList.toggle('hidden', expanded);
+}
+
+function toggleAbstract(btn) {
+  var card = btn.closest('.pub-card');
+  var box  = card.querySelector('.pub-abstract');
+  var open = box.classList.toggle('visible');
+  btn.classList.toggle('open', open);
+  btn.querySelector('i').className = open ? 'fas fa-chevron-up' : 'fas fa-align-left';
+}
+</script>
+{{ end }}

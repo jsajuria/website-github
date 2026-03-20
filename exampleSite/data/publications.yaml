@@ -1,0 +1,229 @@
+themes:
+
+  - id: democracy-populism-far-right
+    title: Democracy, Populism and the Far-Right
+    open: true
+    publications:
+
+      - title: "Informed, uninformed or misinformed? A cross-national analysis of populist party supporters across European democracies"
+        authors: "with Stijn van Kessel and Steven van Hauwaert"
+        venue: "*West European Politics* 44(3), 585–610"
+        year: 2020
+        type: journal_article
+        doi: "10.1080/01402382.2019.1700448"
+        url: "https://figshare.com/articles/Informed_uninformed_or_misinformed_A_cross-national_analysis_of_populist_party_supporters_across_European_democracies/11635794"
+        abstract: >-
+          Recent research suggests that populist party supporters are not necessarily unsophisticated protest voters. This leads us to question the still popular assumption that these individuals are politically uninformed. Simultaneously, given debates about 'fake news', this article asks to what extent misinformation—the possession of erroneous political information—stimulates populist support. Survey data from nine European democracies are used to assess what differs between abstainers and non-populist supporters in terms of their political information and misinformation. It is found that holding correct political information relates positively to the likelihood of voting, whether in support of populist or non-populist parties. It is further found that misinformation relates positively to right-wing populist support.
+
+      - title: "New Approaches to Defending Global Civil Society"
+        authors: "with Richard Youngs, Elene Panchulidze, Poonam Joshi, Ann Tsurtsumia-Zurabashvili, Nicolas Bouchet, Rostislav Valvoda, Wajdi Balloumi and Anna Khakee"
+        venue: "European Democracy Hub / European Partnership for Democracy"
+        year: 2026
+        type: policy_paper
+        pdf: "/papers/new-approaches-defending-global-civil-society-2026.pdf"
+
+      - title: "Mapeando los límites electorales de la ultraderecha: Argentina, Brasil y Chile"
+        authors: "with Cristóbal Rovira Kaltwasser and Nerea Palma"
+        venue: "Friedrich-Ebert-Stiftung, Santiago de Chile"
+        year: 2025
+        type: policy_paper
+        pdf: "/papers/mapeando-limites-electorales-ultraderecha-2025.pdf"
+
+      - title: "La demanda por populismo"
+        venue: "in *Impacto, riesgos y oportunidades del populismo en Europa y América Latina*, Paulina Astroza and Cristóbal Bellolio (eds.)"
+        year: 2024
+        type: book_chapter
+        url: "https://osf.io/preprints/socarxiv/rk497_v1"
+
+      - title: "We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal"
+        authors: "with Jorge Fábrega and Sammy Drobny"
+        venue: "Working paper"
+        type: working_paper
+        url: "https://osf.io/preprints/socarxiv/2ck6j/"
+        abstract: >-
+          In the search for ideological balance, political actors can design rules that unintentionally introduce polarisation. This is particularly relevant within the judiciary, since judges' reputational concerns sustain this polarisation over time. Taking advantage of a constitutional reform in Chile in 2005 that modified its Constitutional Court, we provide evidence of increased polarisation due to changes in the judges' nomination procedure. Our results confirm that different methods of appointment are related to the level of polarisation of those nominated—an unexpected outcome that presents particular challenges for institutional legitimacy.
+
+  - id: electoral-latin-american
+    title: Electoral Politics and Latin American Politics
+    open: true
+    publications:
+
+      - title: "Local media, local candidates and preference formation"
+        authors: "with Sofía Collignon"
+        venue: "*Political Research Exchange* 7(1)"
+        year: 2025
+        type: journal_article
+        doi: "10.1080/2474736X.2025.2461777"
+        url: "https://www.tandfonline.com/doi/full/10.1080/2474736X.2025.2461777"
+        abstract: >-
+          This study explores the role of local media consumption in shaping voter preferences for local candidates. Drawing on British Election Study data from the 2017 UK General Election, the paper examines how local media influences voter preference for candidates with strong local ties. The findings reveal a nuanced relationship: although local newspaper readership does not directly correlate with preference for local candidates, the influence is conditional on the amount of time spent consuming local media. This highlights the complexity of voter behaviour and underscores the importance of connecting political representation to geographically specific concerns.
+
+      - title: "Why vote for an independent? The relevance of negative identity, independent identity, and dealignment in a pro-independent political environment"
+        authors: "with Noam Titelman"
+        venue: "*Party Politics* 30(6)"
+        year: 2025
+        type: journal_article
+        doi: "10.1177/13540688231196423"
+        url: "https://journals.sagepub.com/doi/full/10.1177/13540688231196423"
+        abstract: >-
+          We study the case of Chile—a country that until recently was cited as an example of a stable and institutionalized party system—where independent candidates have shaken the national party system. Using a conjoint experiment, we find that candidates presented as independents have a significantly higher probability of being chosen. This effect is strongest among respondents with low animosity towards independents and high animosity towards traditional parties, suggesting that the recent rise of independent candidates is a result of growing negative views on traditional parties.
+
+      - title: "Intertwined fates? Members switching between niche and mainstream parties"
+        authors: "with Sofía Collignon, Wolfgang Rüdig, Chrysa Lamprinakou and Iakovos Makropoulos"
+        venue: "*Party Politics* 29(5)"
+        year: 2023
+        type: journal_article
+        doi: "10.1177/13540688221106299"
+        url: "https://journals.sagepub.com/doi/abs/10.1177/13540688221106299"
+        abstract: >-
+          Little attention has been paid to the process of members leaving parties to support rival ones. Party developments in the UK in the 2010s provide an opportunity to analyse the determinants of members giving up their current party and joining a rival. Using an original panel survey of 2,679 members of the Green Party in England and Wales, our results show that members who joined the Greens motivated by concern about social justice are more likely to leave to Labour after Jeremy Corbyn's election as party leader, while members who joined to protect the environment are less likely to leave.
+
+      - title: "Parenthood, employment, anxiety, gender, and race: drivers of non-compliance with lockdown measures"
+        authors: "with Sofia Collignon"
+        venue: "*Journal of Elections, Public Opinion and Parties* 31(sup1), 245–258"
+        year: 2021
+        type: journal_article
+        doi: "10.1080/17457289.2021.1924751"
+        url: "https://www.tandfonline.com/doi/full/10.1080/17457289.2021.1924751"
+        abstract: >-
+          We argue that gender, parenthood and ethnicity are associated with high levels of worry about the consequences of the pandemic, leading to variations in compliance with social distancing measures. Using data from an original nationally representative survey, results indicate that respondents with children and employment face important challenges to managing anxiety and stress, but these manifest differently in their compliance with social distancing. Together, results indicate that compliance is not only a matter of individual choice but also of structural and contextual factors.
+
+      - title: "Chile 2020: pandemia y plebiscito constitucional"
+        authors: "with Carlos Meléndez and Cristóbal Rovira Kaltwasser"
+        venue: "*Revista de Ciencia Política* 41(2), 263–290"
+        year: 2021
+        type: journal_article
+        doi: "10.4067/s0718-090x2021005000114"
+        url: "https://www.scielo.cl/pdf/revcipol/2021nahead/0718-090X-revcipol-S0718-090X2021005000114.pdf"
+
+      - title: "Local means local, does it? Regional identification and preferences for local candidates"
+        authors: "with Sofia Collignon"
+        venue: "*Electoral Studies* 56, 170–178"
+        year: 2018
+        type: journal_article
+        doi: "10.1016/j.electstud.2018.07.003"
+        pdf: "/papers/local-means-local-2018.pdf"
+
+      - title: "Los engranajes del sistema político chileno: quiénes se eligen, cómo y por qué importan"
+        authors: "with Matías Piña and Julieta Suárez-Cao"
+        venue: "Friedrich-Ebert-Stiftung, Santiago de Chile"
+        year: 2024
+        type: policy_paper
+        pdf: "/papers/engranajes-sistema-politico-chileno-2024.pdf"
+
+      - title: "La democracia necesita ideas, no personas: personalización de la política en Chile"
+        authors: "with Matías Piña and Julieta Suárez-Cao"
+        venue: "Friedrich-Ebert-Stiftung, Santiago de Chile"
+        year: 2024
+        type: policy_paper
+        pdf: "/papers/democracia-necesita-ideas-2024.pdf"
+
+      - title: "Se rompió el amor: cambios en la opinión pública durante el proceso constituyente"
+        authors: "with Emilia Saffirio"
+        venue: "in *El proceso fallido: La dinámica constituyente en Chile, 2020–2022*, Claudio Fuentes (ed.)"
+        year: 2023
+        type: book_chapter
+        url: "https://osf.io/preprints/socarxiv/tpyqu/"
+
+      - title: "Determinants of personalised campaigning: a comparative analysis"
+        authors: "with Iakovos Makropoulos, Sofia Collignon, Heiko Giebler, Wolfgang Rüdig and Bernhard Weßels"
+        venue: "in *Parliamentary Candidates Between Voters and Parties*, Lieven De Winter, Rune Karlsen, Hermann Schmitt (eds.)"
+        year: 2020
+        type: book_chapter
+        doi: "10.4324/9780429284700-5"
+        url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9780429284700-5/determinants-personalised-campaigning-iakovos-makropoulos-sofia-collignon-heiko-giebler-wolfgang-r%C3%BCdig-javier-sajuria-bernhard-we%C3%9Fels"
+        abstract: >-
+          This chapter analyses how much campaign personalisation is taking place, where and why. Three elements of personal vote-seeking strategies are evaluated: campaign focus, means, and local constituency activities. We find that institutional incentives for a personal vote are an important predictor of personalised campaigning, but candidate-related features also matter. Apart from candidate visibility, the perception of electoral success and campaign intensity are strongly related to all three types of campaigning. Electoral systems matter, but there is still substantial heterogeneity due to candidate-related factors within the same system.
+
+      - title: "Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena"
+        authors: "with Stephanie Alenda and Tomas Dosek"
+        venue: "in *Anatomía de la centro-derecha chilena: nuevos y viejos protagonistas*, Stephanie Alenda (ed.)"
+        year: 2020
+        type: book_chapter
+        pdf: "/papers/ciclo-de-vida-centro-derecha-2020.pdf"
+
+      - title: "More Political, Less Voting: the Internet Paradox"
+        venue: "in *More Sex, Lies and the Ballot Box*, Rob Ford and Phil Cowley (eds.)"
+        year: 2016
+        type: book_chapter
+        url: "https://www.google.co.uk/books/edition/More_Sex_Lies_and_the_Ballot_Box/-oakDAAAQBAJ?hl=en&gbpv=1&pg=PT50&printsec=frontcover"
+
+      - title: "The Elite Versus the People: Democratic Crisis and Renewal in Contemporary Chile"
+        authors: "with Jorge Atria and Cristóbal Rovira Kaltwasser"
+        venue: "Book project, under contract with Cambridge University Press"
+        type: book
+
+      - title: "Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly"
+        authors: "with Julieta Suarez-Cao"
+        venue: "Working paper"
+        type: working_paper
+
+  - id: party-politics-membership
+    title: Party Politics and Membership
+    open: true
+    publications:
+
+      - title: "Green party members and grass-roots democracy: A comparative analysis"
+        authors: "with Wolfgang Rüdig"
+        venue: "*Party Politics* 26(1), 21–31"
+        year: 2020
+        type: journal_article
+        doi: "10.1177/1354068818754600"
+        pdf: "/papers/green-party-members-grassroots-democracy-2020.pdf"
+        abstract: >-
+          When Green parties emerged in the 1970s and 1980s, their political project included a strong commitment to a new type of internal party organization, giving power to 'grass roots'. With Green parties now well established in most West European systems, has the vision of 'grass-roots democracy' survived the foundation stage? Analysing party membership survey data from 15 Green parties, we find that it is the socially movement-oriented, pacifist, left-wing membership that remains committed to internal democracy. Support for grass-roots democracy is stronger in 'Latin Europe' but weaker in Green parties that have become involved in parliament and government.
+
+      - title: "Political Behaviour: Actors and Institutions"
+        authors: "with Sofia Collignon"
+        venue: "Book project, Sage"
+        type: book
+
+      - title: "Non-response Bias in Candidate Surveys"
+        authors: "with Sofia Collignon and Wolfgang Rüdig"
+        venue: "Working paper"
+        type: working_paper
+        url: "https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf"
+
+  - id: digital-politics-social-media
+    title: Digital Politics and Social Media
+    open: false
+    publications:
+
+      - title: "Civil society in times of crisis: Understanding collective action dynamics in digitally-enabled volunteer networks"
+        authors: "with Yannis Theocharis and Silia Vitoratou"
+        venue: "*Journal of Computer-Mediated Communication* 22(5), 248–265"
+        year: 2017
+        type: journal_article
+        doi: "10.1111/jcc4.12194"
+        url: "https://academic.oup.com/jcmc/article/22/5/248/4067542"
+        abstract: >-
+          Social media play an important role in political mobilization, and voluntary engagement can especially benefit from new opportunities for organizing collective action. This paper investigates how networked communication facilitates self-organization and the development of ties in a network of volunteers in Greece. We examine whether community initiative-specific feelings can transcend online-offline divides and evolve in hybrid networks, complementing the analysis with individual-level data drawn from a survey of the initiative's volunteers.
+
+      - title: "The formation of political discourse within online networks: the case of the occupy movement"
+        authors: "with Jorge Fábrega"
+        venue: "*International Journal of Organisational Design and Engineering* 3(3/4), 210–222"
+        year: 2014
+        type: journal_article
+        doi: "10.1504/IJODE.2014.065094"
+        pdf: "/papers/formation-political-discourse-occupy-2014.pdf"
+        abstract: >-
+          How does political discourse spread in digital networks? Through an analysis of Twitter data from the Occupy movement, this paper describes the formation of political discourse over time. Building on concepts derived from theoretical discussions about the movement, we analyse when those concepts appear within networks, who the responsible users are, and the patterns through which they spread. Central activists not only start conversations around given frames but sustain them over time, becoming key members of the network.
+
+      - title: "Tweeting alone? An analysis of bridging and bonding social capital in online networks"
+        authors: "with Jennifer Hudson, David Hudson, Niheer Dasandi and Yannis Theocharis"
+        venue: "*American Politics Research* 43(4)"
+        year: 2014
+        type: journal_article
+        doi: "10.1177/1532673x14557942"
+        pdf: "/papers/tweeting-alone-social-capital-2014.pdf"
+        abstract: >-
+          We test Putnam's claim that online interactions are unable to foster social capital by examining the formation of bridging and bonding in networks. Using Twitter data from three events—the Occupy movement, the IF Campaign, and the Chilean Presidential Election—our results provide evidence that online networks are able to produce the structural features of social capital. Bonding capital online is more effective at forming close networks than theory predicts; bridging, however, is observed only under certain conditions, such as the presence of organisations and professional brokers.
+
+      - title: "Is the Internet Changing our Conception of Democracy? An Analysis of the Internet Use During Protests and its Effect on the Perception of Democracy"
+        venue: "*Politica* 51(1)"
+        year: 2013
+        type: journal_article
+        doi: "10.5354/0716-1077.2013.27416"
+        url: "https://www.redalyc.org/pdf/645/64528862001.pdf"
+        abstract: >-
+          This research analyses two specific contentious processes to assess the possible effect that the Internet may have had on protesters' perception of democracy. Through data gathered from online surveys, interviews, and the Oxford Internet Survey, this article observes the effect on two dimensions: support for democracy and protesters' conception of democracy. Preliminary results show that Internet use is related to a more horizontal conception of democracy, but further analyses are required to test whether this association is caused by the Internet or by a utopian discourse about technology.
