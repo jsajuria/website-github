@@ -125,7 +125,7 @@ weight = 4
 url = "teaching/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 6
 url = "posts/"
 
@@ -166,7 +166,7 @@ weight = 3
 url = "teaching/"
 
 [[languages.es-cl.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 6
 url = "posts/"
 

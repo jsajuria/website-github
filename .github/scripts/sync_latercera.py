@@ -71,6 +71,24 @@ def slug_from_url(url):
     return url.rstrip("/").split("/")[-1]
 
 
+def html_to_markdown(html_text):
+    """
+    Convert a paragraph that may contain inline HTML (e.g. <a href="...">link</a>,
+    <em>, <strong>) into clean markdown.
+    """
+    frag = BeautifulSoup(html_text, "html.parser")
+    # Replace <a href="url">text</a> with [text](url)
+    for a in frag.find_all("a", href=True):
+        a.replace_with(f"[{a.get_text()}]({a['href']})")
+    # Replace <strong>/<b> with **text**
+    for tag in frag.find_all(["strong", "b"]):
+        tag.replace_with(f"**{tag.get_text()}**")
+    # Replace <em>/<i> with _text_
+    for tag in frag.find_all(["em", "i"]):
+        tag.replace_with(f"_{tag.get_text()}_")
+    return frag.get_text()
+
+
 def fetch_article(url):
     """
     Fetch a La Tercera article and extract metadata + body text.
@@ -135,7 +153,7 @@ def fetch_article(url):
                 elements = json.loads(inner.group(1))
 
         paragraphs = [
-            el["content"].strip()
+            html_to_markdown(el["content"].strip())
             for el in elements
             if el.get("type") == "text" and el.get("content", "").strip()
         ]
