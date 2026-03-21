@@ -219,6 +219,12 @@
                   </button>
                 {{ end }}
 
+                {{ range .coauthors }}
+                  <a class="pub-btn pub-btn-coauthor" href="{{ .url }}" target="_blank" rel="noopener">
+                    <i class="fas fa-user"></i> {{ .name }}'s {{ if eq .type "personal" }}website{{ else }}institutional profile{{ end }}
+                  </a>
+                {{ end }}
+
                 {{ if .doi }}
                   <span class="pub-altmetric">
                     <div class="altmetric-embed"

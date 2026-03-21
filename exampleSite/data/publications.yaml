@@ -19,6 +19,10 @@ themes:
         year: 2025
         type: policy_paper
         pdf: "/papers/mapeando-limites-electorales-ultraderecha-2025.pdf"
+        coauthors:
+          - name: "Cristóbal"
+            url: "https://cristobalrovira.com/"
+            type: personal
 
       - title: "La demanda por populismo"
         venue: "in *Impacto, riesgos y oportunidades del populismo en Europa y América Latina*, Paulina Astroza and Cristóbal Bellolio (eds.)"
@@ -33,6 +37,13 @@ themes:
         type: journal_article
         doi: "10.1080/01402382.2019.1700448"
         url: "https://figshare.com/articles/Informed_uninformed_or_misinformed_A_cross-national_analysis_of_populist_party_supporters_across_European_democracies/11635794"
+        coauthors:
+          - name: "Stijn"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/vankesselstijn.html"
+            type: institutional
+          - name: "Steven"
+            url: "https://stevenmvanhauwaert.com/"
+            type: personal
         abstract: >-
           Recent research suggests that populist party supporters are not necessarily unsophisticated protest voters. This leads us to question the still popular assumption that these individuals are politically uninformed. Simultaneously, given debates about 'fake news', this article asks to what extent misinformation—the possession of erroneous political information—stimulates populist support. Survey data from nine European democracies are used to assess what differs between abstainers and non-populist supporters in terms of their political information and misinformation. It is found that holding correct political information relates positively to the likelihood of voting, whether in support of populist or non-populist parties. It is further found that misinformation relates positively to right-wing populist support.
 
@@ -49,6 +60,10 @@ themes:
         type: journal_article
         doi: "10.1080/2474736X.2025.2461777"
         url: "https://www.tandfonline.com/doi/full/10.1080/2474736X.2025.2461777"
+        coauthors:
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
         abstract: >-
           This study explores the role of local media consumption in shaping voter preferences for local candidates. Drawing on British Election Study data from the 2017 UK General Election, the paper examines how local media influences voter preference for candidates with strong local ties. The findings reveal a nuanced relationship: although local newspaper readership does not directly correlate with preference for local candidates, the influence is conditional on the amount of time spent consuming local media. This highlights the complexity of voter behaviour and underscores the importance of connecting political representation to geographically specific concerns.
 
@@ -69,6 +84,13 @@ themes:
         type: journal_article
         doi: "10.1177/13540688221106299"
         url: "https://journals.sagepub.com/doi/abs/10.1177/13540688221106299"
+        coauthors:
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
+          - name: "Iakovos"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/makropoulosiakovos-.html"
+            type: institutional
         abstract: >-
           Little attention has been paid to the process of members leaving parties to support rival ones. Party developments in the UK in the 2010s provide an opportunity to analyse the determinants of members giving up their current party and joining a rival. Using an original panel survey of 2,679 members of the Green Party in England and Wales, our results show that members who joined the Greens motivated by concern about social justice are more likely to leave to Labour after Jeremy Corbyn's election as party leader, while members who joined to protect the environment are less likely to leave.
 
@@ -79,6 +101,10 @@ themes:
         type: journal_article
         doi: "10.1080/17457289.2021.1924751"
         url: "https://www.tandfonline.com/doi/full/10.1080/17457289.2021.1924751"
+        coauthors:
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
         abstract: >-
           We argue that gender, parenthood and ethnicity are associated with high levels of worry about the consequences of the pandemic, leading to variations in compliance with social distancing measures. Using data from an original nationally representative survey, results indicate that respondents with children and employment face important challenges to managing anxiety and stress, but these manifest differently in their compliance with social distancing. Together, results indicate that compliance is not only a matter of individual choice but also of structural and contextual factors.
 
@@ -99,6 +125,13 @@ themes:
         type: book_chapter
         doi: "10.4324/9780429284700-5"
         url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9780429284700-5/determinants-personalised-campaigning-iakovos-makropoulos-sofia-collignon-heiko-giebler-wolfgang-r%C3%BCdig-javier-sajuria-bernhard-we%C3%9Fels"
+        coauthors:
+          - name: "Iakovos"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/makropoulosiakovos-.html"
+            type: institutional
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
         abstract: >-
           This chapter analyses how much campaign personalisation is taking place, where and why. Three elements of personal vote-seeking strategies are evaluated: campaign focus, means, and local constituency activities. We find that institutional incentives for a personal vote are an important predictor of personalised campaigning, but candidate-related features also matter. Apart from candidate visibility, the perception of electoral success and campaign intensity are strongly related to all three types of campaigning. Electoral systems matter, but there is still substantial heterogeneity due to candidate-related factors within the same system.
 
@@ -109,6 +142,10 @@ themes:
         type: journal_article
         doi: "10.1016/j.electstud.2018.07.003"
         pdf: "/papers/local-means-local-2018.pdf"
+        coauthors:
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
 
       - title: "More Political, Less Voting: the Internet Paradox"
         venue: "in *More Sex, Lies and the Ballot Box*, Rob Ford and Phil Cowley (eds.)"
@@ -128,6 +165,10 @@ themes:
         year: 2024
         type: policy_paper
         pdf: "/papers/engranajes-sistema-politico-chileno-2024.pdf"
+        coauthors:
+          - name: "Julieta"
+            url: "https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/en/suarez-cao-julieta"
+            type: institutional
 
       - title: "La democracia necesita ideas, no personas: personalización de la política en Chile"
         authors: "with Matías Piña and Julieta Suárez-Cao"
@@ -135,6 +176,10 @@ themes:
         year: 2024
         type: policy_paper
         pdf: "/papers/democracia-necesita-ideas-2024.pdf"
+        coauthors:
+          - name: "Julieta"
+            url: "https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/en/suarez-cao-julieta"
+            type: institutional
 
       - title: "Se rompió el amor: cambios en la opinión pública durante el proceso constituyente"
         authors: "with Emilia Saffirio"
@@ -150,6 +195,13 @@ themes:
         type: journal_article
         doi: "10.4067/s0718-090x2021005000114"
         url: "https://www.scielo.cl/pdf/revcipol/2021nahead/0718-090X-revcipol-S0718-090X2021005000114.pdf"
+        coauthors:
+          - name: "Carlos"
+            url: "https://www.ics.ulisboa.pt/en/pessoa/carlos-melendez"
+            type: institutional
+          - name: "Cristóbal"
+            url: "https://cristobalrovira.com/"
+            type: personal
 
       - title: "Ciclo de vida y diferencias organizacionales en los partidos de la centro-derecha chilena"
         authors: "with Stephanie Alenda and Tomas Dosek"
@@ -171,6 +223,10 @@ themes:
         type: journal_article
         doi: "10.1111/jcc4.12194"
         url: "https://academic.oup.com/jcmc/article/22/5/248/4067542"
+        coauthors:
+          - name: "Yannis"
+            url: "https://yannistheocharis.com/"
+            type: personal
         abstract: >-
           Social media play an important role in political mobilization, and voluntary engagement can especially benefit from new opportunities for organizing collective action. This paper investigates how networked communication facilitates self-organization and the development of ties in a network of volunteers in Greece. We examine whether community initiative-specific feelings can transcend online-offline divides and evolve in hybrid networks, complementing the analysis with individual-level data drawn from a survey of the initiative's volunteers.
 
@@ -191,6 +247,13 @@ themes:
         type: journal_article
         doi: "10.1177/1532673x14557942"
         pdf: "/papers/tweeting-alone-social-capital-2014.pdf"
+        coauthors:
+          - name: "Niheer"
+            url: "https://niheerdasandi.net/"
+            type: personal
+          - name: "Yannis"
+            url: "https://yannistheocharis.com/"
+            type: personal
         abstract: >-
           We test Putnam's claim that online interactions are unable to foster social capital by examining the formation of bridging and bonding in networks. Using Twitter data from three events—the Occupy movement, the IF Campaign, and the Chilean Presidential Election—our results provide evidence that online networks are able to produce the structural features of social capital. Bonding capital online is more effective at forming close networks than theory predicts; bridging, however, is observed only under certain conditions, such as the presence of organisations and professional brokers.
 
@@ -213,11 +276,22 @@ themes:
         authors: "with Jorge Atria and Cristóbal Rovira Kaltwasser"
         venue: "Book project, under contract with Cambridge University Press"
         type: book
+        coauthors:
+          - name: "Jorge"
+            url: "https://sociologia.uc.cl/academicos-as/planta-academica/jorge-atria-curi/"
+            type: institutional
+          - name: "Cristóbal"
+            url: "https://cristobalrovira.com/"
+            type: personal
 
       - title: "Political Behaviour: Actors and Institutions"
         authors: "with Sofia Collignon"
         venue: "Book project, Sage"
         type: book
+        coauthors:
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
 
       - title: "We did not see it coming: The unintended polarization induced by an institutional reform. The case of the Chilean Constitutional Tribunal"
         authors: "with Jorge Fábrega and Sammy Drobny"
@@ -232,8 +306,16 @@ themes:
         venue: "Working paper"
         type: working_paper
         url: "https://bip.sajuria.com/papers/Sajuria_et_al_Non_Response_paper.pdf"
+        coauthors:
+          - name: "Sofia"
+            url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
 
       - title: "Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly"
         authors: "with Julieta Suarez-Cao"
         venue: "Working paper"
         type: working_paper
+        coauthors:
+          - name: "Julieta"
+            url: "https://cienciapolitica.uc.cl/cuerpo-academico/jornada-completa/en/suarez-cao-julieta"
+            type: institutional
