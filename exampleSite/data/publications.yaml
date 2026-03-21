@@ -91,6 +91,9 @@ themes:
           - name: "Iakovos"
             url: "https://www.qmul.ac.uk/politics/staff/profiles/makropoulosiakovos-.html"
             type: institutional
+          - name: "Wolfgang"
+            url: "https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/"
+            type: institutional
         abstract: >-
           Little attention has been paid to the process of members leaving parties to support rival ones. Party developments in the UK in the 2010s provide an opportunity to analyse the determinants of members giving up their current party and joining a rival. Using an original panel survey of 2,679 members of the Green Party in England and Wales, our results show that members who joined the Greens motivated by concern about social justice are more likely to leave to Labour after Jeremy Corbyn's election as party leader, while members who joined to protect the environment are less likely to leave.
 
@@ -115,6 +118,10 @@ themes:
         type: journal_article
         doi: "10.1177/1354068818754600"
         pdf: "/papers/green-party-members-grassroots-democracy-2020.pdf"
+        coauthors:
+          - name: "Wolfgang"
+            url: "https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/"
+            type: institutional
         abstract: >-
           When Green parties emerged in the 1970s and 1980s, their political project included a strong commitment to a new type of internal party organization, giving power to 'grass roots'. With Green parties now well established in most West European systems, has the vision of 'grass-roots democracy' survived the foundation stage? Analysing party membership survey data from 15 Green parties, we find that it is the socially movement-oriented, pacifist, left-wing membership that remains committed to internal democracy. Support for grass-roots democracy is stronger in 'Latin Europe' but weaker in Green parties that have become involved in parliament and government.
 
@@ -131,6 +138,9 @@ themes:
             type: institutional
           - name: "Sofia"
             url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
+          - name: "Wolfgang"
+            url: "https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/"
             type: institutional
         abstract: >-
           This chapter analyses how much campaign personalisation is taking place, where and why. Three elements of personal vote-seeking strategies are evaluated: campaign focus, means, and local constituency activities. We find that institutional incentives for a personal vote are an important predictor of personalised campaigning, but candidate-related features also matter. Apart from candidate visibility, the perception of electoral success and campaign intensity are strongly related to all three types of campaigning. Electoral systems matter, but there is still substantial heterogeneity due to candidate-related factors within the same system.
@@ -309,6 +319,9 @@ themes:
         coauthors:
           - name: "Sofia"
             url: "https://www.qmul.ac.uk/politics/staff/profiles/collignonsofia.html"
+            type: institutional
+          - name: "Wolfgang"
+            url: "https://www.strath.ac.uk/staff/r%C3%BCdigwolfgangdr/"
             type: institutional
 
       - title: "Fluid Coalitions: Gendered Debates and Political Alliances in the Chilean Constitutional Assembly"
