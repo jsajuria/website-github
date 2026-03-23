@@ -2,7 +2,7 @@ name: Sync La Tercera columns
 
 on:
   schedule:
-    - cron: "0 10 * * 1"  # Every Monday at 10am UTC (7am Chile time)
+    - cron: "0 10 * * 3"  # Every Wednesday at 10am UTC (7am Chile time)
   workflow_dispatch:        # Allows manual trigger from the GitHub Actions tab
 
 jobs:
