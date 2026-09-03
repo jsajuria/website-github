@@ -59,6 +59,8 @@ themes:
         type: book_chapter
         doi: "10.4324/9781003620723-7"
         url: "https://doi.org/10.4324/9781003620723-7"
+        abstract: >-
+          This chapter examines whether London's electoral landscape is becoming increasingly fragmented, exploring how institutional design shapes political diversity. Drawing on aggregate electoral data and individual-level survey responses from the British Election Study, it analyses fragmentation under two contrasting electoral systems: the First-Past-the-Post system used in UK general elections and the Additional Member System (AMS) governing London Assembly elections. It finds that London's political fragmentation is real but institutionally conditioned. Under First-Past-the-Post, a persistent and growing gap between vote and seat fragmentation is observed, with rising voter dispersion suppressed by the system's mechanical and psychological disincentives. In contrast, the AMS produces a more proportional, and therefore more visible, distribution of party competition, allowing smaller parties to gain representation and reinforcing their electoral viability. The same electorate can, then, appear either stable or fragmented depending on how votes are counted and translated into seats. The chapter reflects on the implications of this for democratic representation and legitimacy in the capital.
 
       - title: "Local media, local candidates and preference formation"
         authors: "with Sofía Collignon"
