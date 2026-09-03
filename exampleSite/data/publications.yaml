@@ -53,6 +53,13 @@ themes:
     open: true
     publications:
 
+      - title: "Is London's Electoral Landscape Becoming Increasingly Fragmented?"
+        venue: "in *The Politics and Policy of London*, Patrick Diamond and Elizabeth Simon (eds.), 116–132"
+        year: 2026
+        type: book_chapter
+        doi: "10.4324/9781003620723-7"
+        url: "https://doi.org/10.4324/9781003620723-7"
+
       - title: "Local media, local candidates and preference formation"
         authors: "with Sofía Collignon"
         venue: "*Political Research Exchange* 7(1)"
