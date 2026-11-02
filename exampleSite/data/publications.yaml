@@ -6,6 +6,20 @@ themes:
     open: true
     publications:
 
+      - title: "Is sidestepping the judiciary seen as democratic? Evidence from Great Britain and Spain"
+        authors: "with Noam Titelman and Lisa Zanotti"
+        venue: "*Party Politics*, online first"
+        year: 2026
+        type: journal_article
+        doi: "10.1177/13540688261497233"
+        url: "https://journals.sagepub.com/doi/10.1177/13540688261497233"
+        coauthors:
+          - name: "Lisa"
+            url: "https://lisazanotti.eu"
+            type: personal
+        abstract: >-
+          Executives often bypass the courts without public backlash and, sometimes, with public support. This research note evaluates one strategy employed by politicians for securing public backing when bypassing the courts: a majoritarian framing. We evaluate this strategy through candidate survey experiments in Great Britain (n = 957) and Spain (n = 995) that contrast this framing with institutional checks and balances. On average, respondents rate the candidate pushing for court bypassing as less democratic. Nevertheless, a sizeable minority in both countries judges this option as more democratic. These results indicate that heterogeneous understandings of what counts as democratic can sustain public tolerance for executive bypass of the courts.
+
       - title: "New Approaches to Defending Global Civil Society"
         authors: "with Richard Youngs, Elene Panchulidze, Poonam Joshi, Ann Tsurtsumia-Zurabashvili, Nicolas Bouchet, Rostislav Valvoda, Wajdi Balloumi and Anna Khakee"
         venue: "European Democracy Hub / European Partnership for Democracy"
