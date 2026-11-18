@@ -17,6 +17,8 @@ import requests
 from bs4 import BeautifulSoup
 
 AUTHOR_URL = "https://www.latercera.com/autor/javier-sajuria/"
+AUTHOR_SLUG = "javier-sajuria"
+AUTHOR_NAME = "Javier Sajuria"
 POSTS_DIR = "exampleSite/content/posts"
 HEADERS = {
     "User-Agent": (
@@ -89,10 +91,35 @@ def html_to_markdown(html_text):
     return frag.get_text()
 
 
+def byline_people(byline):
+    """Normalise a JSON-LD author field into a list of person dicts."""
+    if byline is None:
+        return []
+    people = byline if isinstance(byline, list) else [byline]
+    return [{"name": p} if isinstance(p, str) else p
+            for p in people if isinstance(p, (dict, str))]
+
+
+def is_own_byline(byline):
+    """True if the JSON-LD author field credits Javier."""
+    for person in byline_people(byline):
+        if AUTHOR_SLUG in (person.get("url") or ""):
+            return True
+        if (person.get("name") or "").strip().lower() == AUTHOR_NAME.lower():
+            return True
+    return False
+
+
+def describe_byline(byline):
+    """Author name(s) from a JSON-LD author field, for log messages."""
+    names = [p.get("name", "").strip() for p in byline_people(byline) if p.get("name")]
+    return ", ".join(names) or "unknown"
+
+
 def fetch_article(url):
     """
     Fetch a La Tercera article and extract metadata + body text.
-    Returns a dict or None if extraction fails.
+    Returns a dict or None if extraction fails or the article is not Javier's.
     """
     print(f"  Fetching: {url}")
     try:
@@ -104,9 +131,10 @@ def fetch_article(url):
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Extract title and date from JSON-LD
+    # Extract title, date and byline from JSON-LD
     title = ""
     date = ""
+    byline = None
     for script in soup.find_all("script", type="application/ld+json"):
         try:
             data = json.loads(script.string or "")
@@ -121,12 +149,19 @@ def fetch_article(url):
                 if not re.match(r"\d{4}-\d{2}-\d{2}", date):
                     print(f"  WARNING: Unexpected date format '{date_raw}' for {url}")
                     date = ""
+                byline = data.get("author")
                 break
         except (json.JSONDecodeError, AttributeError):
             continue
 
     if not title or not date:
         print(f"  WARNING: Could not extract title/date from {url}")
+        return None
+
+    # The author page also surfaces recommended columns by other writers, so
+    # confirm the byline rather than trusting that every link there is Javier's.
+    if not is_own_byline(byline):
+        print(f"  SKIPPING {url} (by {describe_byline(byline)})")
         return None
 
     # Extract paragraphs from Arc XP content_elements JSON (preserves paragraph breaks)
